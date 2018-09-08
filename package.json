@@ -12,8 +12,11 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
+    "axios": "^0.18.0",
     "babel-core": "^6.26.3",
+    "babel-fs": "^1.0.5",
     "babel-loader": "^7.1.5",
+    "babel-plugin-styled-components": "^1.6.3",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-decorators": "^6.24.1",
     "babel-plugin-transform-react-constant-elements": "^6.23.0",
@@ -23,15 +26,18 @@
     "babel-preset-stage-0": "^6.24.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "fs": "0.0.1-security",
     "jquery": "^3.3.1",
     "mongoose": "^5.2.13",
     "msql": "^1.0.3",
     "nodemon": "^1.18.4",
     "path": "^0.12.7",
+    "polished": "^2.0.3",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
+    "styled-components": "^3.4.5",
     "webpack": "^2.2.1"
   }
 }
