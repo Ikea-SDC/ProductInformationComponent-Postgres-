@@ -201,3 +201,71 @@
 .cloneTabsContainer .tabItem a:hover {
   text-decoration: none;
 }
+
+.prodInfoLeft {
+  column-count: 2;
+  width: 75%;
+  column-gap: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 10px;
+}
+
+#leftNavBottom .prodInfoSub {
+  margin-bottom: 10px !important;
+}
+#leftNavBottom .prodInfoSub .subTxt {
+  font-size: 11px;
+}
+
+#leftNavBottom .keyFeaturesmargin {
+  margin-right: 0.208em;
+}
+#leftNavBottom .keyFeaturesmargin {
+  margin-left: 6px !important;
+}
+
+.texts {
+  font-size: 13px;
+  line-height: 18px;
+}
+
+#custBenefit ul {
+  padding: 0 0 0 15px;
+  margin: 0;
+}
+#custBenefit li {
+  margin-bottom: 8px;
+}
+
+.productsubheadline {
+  font-size: 13px;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+.prodInfoRight {
+  width: 24.5%;
+  padding: 20px;
+  font-size: 11px;
+  line-height: 15px;
+  background-color: #fafafa;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.prodInfoRight .productsubheadline {
+  font-size: 11px;
+}
+
+.prodInfoRight .texts {
+  font-size: 11px;
+  line-height: 15px;
+}
+
+#dessection_right {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
