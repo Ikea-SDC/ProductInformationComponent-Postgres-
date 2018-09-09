@@ -31,13 +31,26 @@ const TabFill = styled.div`
   padding: 5px 15px;
   margin: 0;
   height: 32px;
+  &:hover {
+    background-color: #fff;
+    transition: background-color 0.2s, border-bottom-color 0.2s;
+    overflow: hidden;
+    vertical-align: middle;
+`;
+const Clickable = styled.a`
+  font-size: inherit;
+  color: #333;
+  text-decoration: none;
 `;
 
 const Tab = (props) => {
-    return <TabContainer>
+  
+  return <TabContainer>
+        <Clickable href={"#" + props.title}>
           <TabFill>
             {props.title}
           </TabFill>
+        </Clickable>
       </TabContainer>;
 }
 
