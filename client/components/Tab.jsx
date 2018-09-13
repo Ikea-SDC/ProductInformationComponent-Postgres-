@@ -90,16 +90,16 @@ class Tab extends React.Component {
   handleTabState() {
     if (this.props.activeTab !== this.state.id) {
       return (<InactiveTabContainer onClick={() => {this.props.handleClick(this.state.id)}}>
-        <Clickable href={"#" + this.props.title}>
-          <InactiveTabFill>{this.props.title}</InactiveTabFill>
-        </Clickable>
-      </InactiveTabContainer>);
+                <Clickable href={"#" + this.props.title}>
+                 <InactiveTabFill>{this.props.title}</InactiveTabFill>
+                </Clickable>
+              </InactiveTabContainer>);
     } else if(this.props.activeTab === this.state.id) {
       return (<ActiveTabContainer onClick={() => {this.props.handleClick(this.state.id)}}>
-        <Clickable href={"#" + this.props.title}>
-          <ActiveTabFill>{this.props.title}</ActiveTabFill>
-        </Clickable>
-      </ActiveTabContainer>);
+                <Clickable href={"#" + this.props.title}>
+                  <ActiveTabFill>{this.props.title}</ActiveTabFill>
+                </Clickable>
+              </ActiveTabContainer>);
     }
   }
 

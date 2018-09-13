@@ -2,6 +2,10 @@ import React from 'react';
 import styled from 'styled-components';
 import TabFrame from './TabFrame.jsx'
 import ProductInfoBodyFrame from './tabs/product-info/ProductInfoBodyFrame.jsx'
+import MaterialsAndEnvironmentFrame from './tabs/materials-environment/MatAndEnvBodyFrame.jsx';
+import AssemblyAndDocumentsFrame from './tabs/assembly-documents/AssemblyAndDocumentsFrame.jsx';
+import PackageDetailsBodyFrame from './tabs/package-details/PackageDetailsBodyFrame.jsx';
+import RatingsBodyFrame from './tabs/ratings/RatingsBodyFrame.jsx'
 
 const Container = styled.div`
   -webkit-font-smoothing: antialiased !important;
@@ -38,13 +42,28 @@ class Frame extends React.Component {
                 diameter: 23,
                 cordLength: '10 ft',
                 power: '10 w'},
-            activeTab: 0
+            activeTab: 0,
         }
         this.handleClick = this.handleClick.bind(this);
+        this.renderBody = this.renderBody.bind(this);
     }
 
     handleClick(id) {
         this.setState({activeTab: id});
+    }
+
+    renderBody() {
+        if(this.state.activeTab === 0) {
+            return (<ProductInfoBodyFrame bullets={this.state.keyFeatures} goodToKnow={this.state.goodToKnow} careInstructions={this.state.careInstructions} dimensions={this.state.dimensions} />);
+        } else if (this.state.activeTab === 1) {
+            return (<MaterialsAndEnvironmentFrame />);
+        } else if (this.state.activeTab === 2) {
+            return (<AssemblyAndDocumentsFrame />);
+        } else if (this.state.activeTab === 3) {
+            return (<PackageDetailsBodyFrame />);
+        } else if (this.state.activeTab === 4) {
+            return (<RatingsBodyFrame />);
+        }
     }
 
     render() {
@@ -52,7 +71,7 @@ class Frame extends React.Component {
              <Container>
                 {this.state.tabTitles.map((title, i) => <TabFrame title={title} id={i} activeTab={this.state.activeTab} handleClick={this.handleClick}/>)}
                 <Details>
-                    <ProductInfoBodyFrame bullets={this.state.keyFeatures} goodToKnow={this.state.goodToKnow} careInstructions={this.state.careInstructions} dimensions={this.state.dimensions}/>
+                    {this.renderBody()}
                 </Details>
             </Container>
         )
