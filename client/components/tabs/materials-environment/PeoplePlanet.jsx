@@ -7,7 +7,10 @@ class PeoplePlanet extends React.Component {
     }
 
     render() {
-        return (<div>People and Planet placeholder.</div>);
+        return <div>
+            Special waste handling may be required. Please contact your
+            local authorities for more information.
+          </div>;
     }
 }
 
