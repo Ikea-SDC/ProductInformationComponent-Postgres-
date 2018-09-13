@@ -18,10 +18,7 @@ class TabFrame extends React.Component {
         this.state = {
         }
     }
-
     
-
-
     render() {
         return (<TabContainer>
             <TabContainerUl>
