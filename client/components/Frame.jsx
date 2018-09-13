@@ -38,20 +38,21 @@ class Frame extends React.Component {
                 diameter: 23,
                 cordLength: '10 ft',
                 power: '10 w'},
+            activeTab: 0
         }
+        this.handleClick = this.handleClick.bind(this);
     }
 
-    //<Container> contains styling for the entire boxx
-    //<TabContainer> contains styling for just the tab frame
-    //<TabFrame> contains styling of the tab items
-    //<Tab> contains styling for the tab and its title
+    handleClick(id) {
+        this.setState({activeTab: id});
+    }
 
     render() {
         return (
              <Container>
-                {this.state.tabTitles.map(title => <TabFrame title={title}/>)}
+                {this.state.tabTitles.map((title, i) => <TabFrame title={title} id={i} activeTab={this.state.activeTab} handleClick={this.handleClick}/>)}
                 <Details>
-                    <ProductInfoBodyFrame keyFeatures={this.state.keyFeatures} goodToKnow={this.state.goodToKnow} careInstructions={this.state.careInstructions} dimensions={this.state.dimensions}/>
+                    <ProductInfoBodyFrame bullets={this.state.keyFeatures} goodToKnow={this.state.goodToKnow} careInstructions={this.state.careInstructions} dimensions={this.state.dimensions}/>
                 </Details>
             </Container>
         )
