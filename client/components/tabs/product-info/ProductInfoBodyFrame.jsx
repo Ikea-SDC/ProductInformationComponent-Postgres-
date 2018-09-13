@@ -1,6 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
-
+import BulletPoints from './BulletPoints.jsx';
+import GoodToKnow from './GoodToKnow.jsx';
+import CareInstructions from './CareInstructions.jsx';
+import ProductDimensions from './ProductDimensions';
 
 const ProductInfoLeft = styled.div`
   column-count: 2;
@@ -26,28 +29,9 @@ const ProductInfoRight = styled.div`
   margin-bottom: 10px;
 `;
 
-const KeyFeatures = styled.div`
+const DetailsContainer = styled.div`
+  margin-bottom: 10px !important;
   display: block;
-  margin-right: 0.208em;
-  margin-left: 6px !important;
-`;
-
-const KeyFeaturesUl = styled.ul`
-  display:block;
-  padding: 0 0 0 15px;
-  margin: 0;
-`;
-
-const KeyFeaturesLi = styled.li`
-  margin-bottom: 8px;
-  font-size: 13px;
-  line-height: 18px;
-  margin-bottom: 10px !important;
-`;
-
-const GoodToKnow = styled.div`
-  margin-bottom: 10px !important;
-  display:block;
 `;
 
 const Headline = styled.div`
@@ -57,7 +41,7 @@ const Headline = styled.div`
   font-weight: bold;
 `;
 
-const DimensionsHeadline = styled.div`
+const ProductDimensionsHeadline = styled.div`
   font-size: 11px;
   color: #333;
   margin-bottom: 4px;
@@ -65,88 +49,21 @@ const DimensionsHeadline = styled.div`
   line-height: 15px;
 `;
 
-const GoodToKnowItem = styled.div`
-  font-size: 13px;
-  line-height: 18px;
-`;
-
-const ProductDimensions = styled.div`
-  display: block;
-  margin-top: 0 !important;
-`;
-
-const Designer = styled.div`
-  margin-bottom: 10px;
-  margin-top: 20px;
-`;
-
 
 const ProductInfoBodyFrame = (props) => {
     return <div>
         <ProductInfoLeft>
-          <KeyFeatures>
-            <KeyFeaturesUl>
-              {props.keyFeatures.map(feature => {
-                return <KeyFeaturesLi>{feature}</KeyFeaturesLi>;
-              })}
-            </KeyFeaturesUl>
-          </KeyFeatures>
-          <GoodToKnow>
-            <Headline>Good to Know</Headline>
-            {props.goodToKnow.map(fact => {
-              return <div>
-                  <GoodToKnowItem>{fact}</GoodToKnowItem>
-                  <br />
-                </div>;
-            })}
-            <Headline>Care Instructions</Headline>
-            {props.careInstructions.map(instruction => {
-              return <div>
-                  <GoodToKnowItem>{instruction}</GoodToKnowItem>
-                  <br />
-                </div>;
-            })}
-          </GoodToKnow>
+          <BulletPoints bullets={props.bullets}/>
+          <DetailsContainer>
+              <Headline>Good to Know</Headline>
+                <GoodToKnow goodToKnow={props.goodToKnow}/>
+              <Headline>Care Instructions</Headline>
+                <CareInstructions careInstructions={props.careInstructions}/>
+          </DetailsContainer>
         </ProductInfoLeft>
         <ProductInfoRight>
-          <DimensionsHeadline>Product dimensions</DimensionsHeadline>
-          <ProductDimensions>
-            Max.: {props.dimensions.max}
-            <br />
-            Shade width: {props.dimensions.width}
-            <br />
-            Diameter: {props.dimensions.cordLength}
-            <br />
-            Cord length:
-            {props.dimensions.cordLength}
-            <br />
-            Power: {props.dimensions.power}
-            <br />
-            <br />
-            <br />
-          </ProductDimensions>
-          <ProductDimensions>
-            Max.: {props.dimensions.max}
-            <br />
-            Shade width: {props.dimensions.width}
-            <br />
-            Diameter: {props.dimensions.cordLength}
-            <br />
-            Cord length:
-            {props.dimensions.cordLength}
-            <br />
-            Power: {props.dimensions.power}
-            <br />
-            <br />
-            <br />
-          </ProductDimensions>
-          <ProductDimensions>
-              This product requires assembly.
-          </ProductDimensions>
-          <Designer>
-              <DimensionsHeadline>Designer:</DimensionsHeadline>
-              <ProductDimensions>ME I MADE THIS</ProductDimensions>
-          </Designer>
+          <ProductDimensionsHeadline>Product dimensions</ProductDimensionsHeadline>
+          <ProductDimensions dimensions={props.dimensions}/>
         </ProductInfoRight>
       </div>;
 }

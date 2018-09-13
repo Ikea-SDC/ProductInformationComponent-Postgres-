@@ -12,12 +12,23 @@ const TabContainerUl = styled.ul`
   margin: 0;
 `;
 
-const TabFrame = (props) => {
-    return (<TabContainer>
-        <TabContainerUl>
-            <Tab title={props.title}/>
-        </TabContainerUl>
-    </TabContainer>);
+class TabFrame extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+        }
+    }
+
+    
+
+
+    render() {
+        return (<TabContainer>
+            <TabContainerUl>
+                <Tab title={this.props.title} id={this.props.id} handleClick={this.props.handleClick} activeTab={this.props.activeTab}/>
+            </TabContainerUl>
+        </TabContainer>);
+    }
 }
 
 export default TabFrame;
