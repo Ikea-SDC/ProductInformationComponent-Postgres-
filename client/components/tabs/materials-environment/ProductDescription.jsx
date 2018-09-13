@@ -9,7 +9,14 @@ class ProductDescription extends React.Component {
     }
 
     render() {
-        return (<div>Product Description placeholder.</div>);
+        return <div>
+            Weight: Steel
+            <br />
+            Shade: Aluminum, Paint, Epoxy powder coating
+            <br />
+            Tube: Steel, Epoxy powder coating
+            <br />
+          </div>;
     }
 }
 
