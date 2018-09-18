@@ -5,6 +5,13 @@ import Downloads from './Downloads.jsx';
 import Manuals from './Manuals.jsx';
 import TaskRabbit from './TaskRabbit.jsx';
 
+const Container = styled.div`
+    display:inline;
+    text-align: left;
+    
+`;
+
+
 class AssemblyAndDocumentsFrame extends React.Component {
     constructor(props) {
         super(props);
@@ -12,11 +19,12 @@ class AssemblyAndDocumentsFrame extends React.Component {
 
     render() {
         return <div>
-            <h1>Assembly</h1>
-            <AssemblyInstructions />
+            <Container>
+              <TaskRabbit />
+            </Container>
+            {/*<AssemblyInstructions />
             <Downloads />
-            <Manuals />
-            <TaskRabbit />
+            <Manuals /> */}
           </div>;
     }
 }

@@ -14,10 +14,15 @@ const Container = styled.div`
   font-family: Verdana, sans-serif;
   margin-top: 20px;
   padding-bottom: 1.04em;
-  overflow: hidden;
   box-sizing: border-box;
   padding: 20px 15px;
   width: 1060px;
+`;
+
+const TabContainer = styled.div`
+  border-bottom: 1px solid #bfbfbf;
+  padding: 39px;
+  padding-left: 0px;
 `;
 
 const Details = styled.div`
@@ -69,7 +74,9 @@ class Frame extends React.Component {
     render() {
         return (
              <Container>
-                {this.state.tabTitles.map((title, i) => <TabFrame title={title} id={i} activeTab={this.state.activeTab} handleClick={this.handleClick}/>)}
+                 <TabContainer>
+                    {this.state.tabTitles.map((title, i) => <TabFrame title={title} id={i} activeTab={this.state.activeTab} handleClick={this.handleClick} />)}
+                 </TabContainer>
                 <Details>
                     {this.renderBody()}
                 </Details>
