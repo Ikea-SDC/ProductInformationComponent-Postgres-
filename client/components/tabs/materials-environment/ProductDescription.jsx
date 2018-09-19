@@ -10,11 +10,17 @@ class ProductDescription extends React.Component {
 
     render() {
         return <div>
-            Weight: Steel
+            Weight: {this.props.materials.weight.map((item, i) => {
+                return item;
+            }).join(', ')}
             <br />
-            Shade: Aluminum, Paint, Epoxy powder coating
+            Shade: {this.props.materials.shade.map((item, i) => {
+                return item
+            }).join(', ')}
             <br />
-            Tube: Steel, Epoxy powder coating
+            Tube: {this.props.materials.tube.map((item, i) => {
+                return item
+            }).join(', ')}
             <br />
           </div>;
     }

@@ -8,8 +8,8 @@ const CareInstructionItem = styled.div`
 
 const CareInstructions = (props) => {
     return (<div>
-        {props.careInstructions.map(instruction => {
-        return <div>
+        {props.careInstructions.map((instruction, i) => {
+        return <div key={i}>
             <CareInstructionItem>{instruction}</CareInstructionItem>
             <br />
         </div>;

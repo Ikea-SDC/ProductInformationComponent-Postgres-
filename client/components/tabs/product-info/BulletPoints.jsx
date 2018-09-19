@@ -24,8 +24,8 @@ const BulletPoints = (props) => {
 
     return (<KeyFeatures>
         <KeyFeaturesUl>
-            {props.bullets.map(bullet => {
-                return <KeyFeaturesLi>{bullet}</KeyFeaturesLi>;
+            {props.bullets.map((bullet, i) => {
+                return <KeyFeaturesLi key={i}>{bullet}</KeyFeaturesLi>;
             })}
         </KeyFeaturesUl>
     </KeyFeatures>);

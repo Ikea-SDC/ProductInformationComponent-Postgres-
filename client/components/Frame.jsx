@@ -77,7 +77,7 @@ class Frame extends React.Component {
         if(this.state.activeTab === 0) {
             return (<ProductInfoBodyFrame bullets={this.state.product.product_info.bullets} goodToKnow={this.state.product.product_info.good_to_know} careInstructions={this.state.product.product_info.care_instructions} dimensions={this.state.product.product_info.product_dimensions} />);
         } else if (this.state.activeTab === 1) {
-            return (<MaterialsAndEnvironmentFrame />);
+            return (<MaterialsAndEnvironmentFrame materials={this.state.product.materials_env}/>);
         } else if (this.state.activeTab === 2) {
             return (<AssemblyAndDocumentsFrame />);
         } else if (this.state.activeTab === 3) {
@@ -95,6 +95,7 @@ class Frame extends React.Component {
                 <TabContainer>
                   {this.state.tabTitles.map((title, i) => (
                     <TabFrame
+                      key={i}
                       title={title}
                       id={i}
                       activeTab={this.state.activeTab}
