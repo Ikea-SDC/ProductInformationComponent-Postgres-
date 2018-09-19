@@ -36,6 +36,26 @@ const productsSchema = mongoose.Schema({
   }
 }); 
 
-const Product = mongoose.model('Product', productsSchema);
+const reviewsSchema = mongoose.Schema({
+  productId: Number,
+  rating: Number,
+  review_body: String,
+  review_title: String,
+  created_at: String,
+  recommended: Boolean,
+  helpful: { yes: Number, no: Number },
+  specifics: {
+    value: Number,
+    quality: Number,
+    appearance: Number,
+    ease: Number,
+    expected: Number
+  },
+  username: String
+})
 
-module.exports = Product;
+const Product = mongoose.model('Product', productsSchema);
+const Reviews = mongoose.model('Reviews', reviewsSchema);
+
+module.exports.product = Product;
+module.exports.reviews = Reviews;

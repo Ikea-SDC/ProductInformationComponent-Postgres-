@@ -1,6 +1,7 @@
 const db = require('../database/index');
-const Product = require('../database/models');
+const Models = require('../database/models');
 const MockData = require('../database/mock/MOCK_DATA');
+const ReviewData = require('../database/mock/REVIEW_DATA');
 
 // exports.addProduct = function(req, res) {
     
@@ -18,13 +19,18 @@ const MockData = require('../database/mock/MOCK_DATA');
 
 // }
 
-// exports.getReviews = function(req, res) {
-
-// }
+exports.getReviews = function(id, callback) {
+    Models.reviews.find({productId: id}, (err, docs) => {
+        if(err) {
+            callback(err, null);
+        } else {
+            callback(null, docs);
+        }
+    });
+}
 
 exports.getProduct = function(id, callback) {
-    console.log('id in get', id)
-    Product.find({productId: id}, (err, doc) => {
+    Models.product.find({productId: id}, (err, doc) => {
         if(err) {
             console.log(err);
             callback(err, null);
@@ -36,7 +42,7 @@ exports.getProduct = function(id, callback) {
 
 exports.populate = function(callback) {
     MockData.forEach((product) => {
-        let newProd = new Product(product);
+        let newProd = new Models.product(product);
         newProd.save((err, res) => {
             if(err) {
                 console.log(err);
@@ -45,5 +51,16 @@ exports.populate = function(callback) {
             }
         });
     })
+
+    ReviewData.forEach((review) => {
+        let newReview = new Models.reviews(review);
+        newReview.save((err, res) => {
+            if(err) {
+                console.log(err);
+            } else {
+                console.log('Added review successfully!');
+            }
+        });
+    });
     callback();
 }

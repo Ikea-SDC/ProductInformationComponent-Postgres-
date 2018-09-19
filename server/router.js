@@ -18,12 +18,19 @@ router.post('product/:id', (req, res) => {
     res.status(200).send("POST product information!");
 })
 
-router.get('/review/:id', (req, res) => {
+router.get('/reviews/:id', (req, res) => {
     console.log('GET @ review/:id');
-    res.status(200).send('GET reviews for a product id!');
+    controller.getReviews(req.params.id, (err, docs) => {
+        if(err) {
+            console.log(err);
+            res.status(200).send();
+        } else {
+            res.status(200).send(docs);
+        }
+    });
 })
 
-router.post('/review/:id', (req, res) => {
+router.post('/reviews/:id', (req, res) => {
     console.log('POST @ review/:id');
     res.status(200).send('POST a new review to product id!');
 })

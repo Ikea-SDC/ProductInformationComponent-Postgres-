@@ -43,7 +43,7 @@ const RatingBarBackground = styled.span`
 `;
 
 const RatingBarFill = styled.span`
-  width: 80% !important;
+  width: ${props => props.rating} !important;
   height: 10px !important;
   display: block !important;
   border-radius: 2px !important;
@@ -55,20 +55,46 @@ const RatingBarFill = styled.span`
   ) !important;
 `;
 
-const RatingBar = (props) => {
-    return <RowContainer role="presentation">
-        <Cell>
-            {props.stars}<Glyph>★</Glyph>
-        </Cell>
-        <RatingBarCell>
-          <RatingBarBackground>
-            <RatingBarFill></RatingBarFill>
-          </RatingBarBackground>
-        </RatingBarCell>
-        <Cell>
-            4
-        </Cell>
-      </RowContainer>;
+
+
+class RatingBar extends React.Component {
+  constructor(props) {
+    super(props);
+
+  }
+
+  renderRating() {
+    if (this.props.stars === 5) {
+      return <RatingBarFill rating="100%"></RatingBarFill>
+    } else if (this.props.stars === 4) {
+      return <RatingBarFill rating="80%"></RatingBarFill>
+    } else if (this.props.stars === 3) {
+      return <RatingBarFill rating="60%"></RatingBarFill>
+    } else if (this.props.stars === 2) {
+      return <RatingBarFill rating="40%"></RatingBarFill>
+    } else if (this.props.stars === 1) {
+      return <RatingBarFill rating="20%"></RatingBarFill>
+    }
 }
+
+render() {
+  return <RowContainer role="presentation">
+    <Cell>
+      {this.props.rating}<Glyph>★</Glyph>
+    </Cell>
+    <RatingBarCell>
+      <RatingBarBackground>
+        <RatingBarFill rating={((this.props.count / this.props.total) * 100).toString() + "%"}></RatingBarFill>
+      </RatingBarBackground>
+    </RatingBarCell>
+    <Cell>
+      {this.props.count}
+    </Cell>
+  </RowContainer>;
+}
+
+
+}
+
 
 export default RatingBar;

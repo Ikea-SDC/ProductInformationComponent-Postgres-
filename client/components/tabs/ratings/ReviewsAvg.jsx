@@ -67,7 +67,7 @@ const Bar = styled.li`
 `;
 
 const BarFill = styled.li`
-  width: 80% !important;
+  width: ${props => props.rating}% !important;
   display: block !important;
   height: 8px !important;
   border-radius: 2px !important;
@@ -145,7 +145,7 @@ const StarsBackground = styled.div`
 `;
 
 const StarsFill = styled.span`
-  width: 77% !important;
+  width: ${props => props.rating}% !important;
   position: relative !important;
   float: left !important;
   white-space: nowrap !important;
@@ -161,7 +161,7 @@ const StarsFill = styled.span`
 `;
 
 
-const ReviewsAvg = () => {
+const ReviewsAvg = (props) => {
     return <Table>
         <TableBody>
           <Row>
@@ -170,10 +170,10 @@ const ReviewsAvg = () => {
               <StarsContainer>
                 <StarsBlock>
                 <StarsBackground>★★★★★</StarsBackground>
-                  <StarsFill>★★★★★</StarsFill>
+                <StarsFill rating={(props.reviews.reduce((acc, review) => {return acc += review.rating}, 0) / props.reviews.length).toString() * 20}>★★★★★</StarsFill>
                 </StarsBlock>
               </StarsContainer>
-              <ScoreSpan>4.8</ScoreSpan>
+            <ScoreSpan>{(props.reviews.reduce((acc, review) => {return acc += review.rating}, 0) / props.reviews.length).toString().slice(0, 3)}</ScoreSpan>
             </BarCell>
           </Row>
           <Row>
@@ -186,10 +186,10 @@ const ReviewsAvg = () => {
                   <Bar />
                   <Bar />
                   <Bar />
-                  <BarFill />
+                <BarFill rating={(props.reviews.reduce((acc, review) => { return acc += review.specifics.value }, 0) / props.reviews.length).toString() * 20}/>
                 </BarList>
               </BarSpan>
-              <ScoreSpan>4.8</ScoreSpan>
+            <ScoreSpan>{(props.reviews.reduce((acc, review) => { return acc += review.specifics.value }, 0) / props.reviews.length).toString().slice(0, 3)}</ScoreSpan>
             </BarCell>
           </Row>
           <Row>
@@ -202,10 +202,10 @@ const ReviewsAvg = () => {
                   <Bar />
                   <Bar />
                   <Bar />
-                  <BarFill />
+                <BarFill rating={(props.reviews.reduce((acc, review) => { return acc += review.specifics.quality }, 0) / props.reviews.length).toString() * 20}/>
                 </BarList>
               </BarSpan>
-              <ScoreSpan>4.8</ScoreSpan>
+            <ScoreSpan>{(props.reviews.reduce((acc, review) => { return acc += review.specifics.quality }, 0) / props.reviews.length).toString().slice(0, 3)}</ScoreSpan>
             </BarCell>
           </Row>
           <Row>
@@ -218,10 +218,10 @@ const ReviewsAvg = () => {
                   <Bar />
                   <Bar />
                   <Bar />
-                  <BarFill />
+                <BarFill rating={(props.reviews.reduce((acc, review) => { return acc += review.specifics.appearance }, 0) / props.reviews.length).toString() * 20}/>
                 </BarList>
               </BarSpan>
-              <ScoreSpan>4.8</ScoreSpan>
+            <ScoreSpan>{(props.reviews.reduce((acc, review) => { return acc += review.specifics.appearance }, 0) / props.reviews.length).toString().slice(0, 3)}</ScoreSpan>
             </BarCell>
           </Row>
           <Row>
@@ -234,10 +234,10 @@ const ReviewsAvg = () => {
                   <Bar />
                   <Bar />
                   <Bar />
-                  <BarFill />
+                <BarFill rating={(props.reviews.reduce((acc, review) => { return acc += review.specifics.ease }, 0) / props.reviews.length).toString() * 20}/>
                 </BarList>
               </BarSpan>
-              <ScoreSpan>4.8</ScoreSpan>
+            <ScoreSpan>{(props.reviews.reduce((acc, review) => { return acc += review.specifics.ease }, 0) / props.reviews.length).toString().slice(0, 3)}</ScoreSpan>
             </BarCell>
           </Row>
           <Row>
@@ -250,10 +250,10 @@ const ReviewsAvg = () => {
                   <Bar />
                   <Bar />
                   <Bar />
-                  <BarFill />
+                <BarFill rating={(props.reviews.reduce((acc, review) => { return acc += review.specifics.expected }, 0) / props.reviews.length).toString() * 20}/>
                 </BarList>
               </BarSpan>
-              <ScoreSpan>4.8</ScoreSpan>
+            <ScoreSpan>{(props.reviews.reduce((acc, review) => { return acc += review.specifics.expected }, 0) / props.reviews.length).toString().slice(0, 3)}</ScoreSpan>
             </BarCell>
           </Row>
         </TableBody>

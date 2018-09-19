@@ -50,7 +50,8 @@ class Frame extends React.Component {
                 power: '10 w'},
             loading: true,
             activeTab: 0,
-            product: null
+            product: null,
+            reviews: null
         }
         this.handleClick = this.handleClick.bind(this);
         this.renderBody = this.renderBody.bind(this);
@@ -64,8 +65,13 @@ class Frame extends React.Component {
     componentDidMount() {
         axios.get(`http://localhost:1337/product/${this.generateRandomProductId()}`)
         .then((response) => {
-            console.log(response.data[0])
+            console.log('Product', response.data[0])
             this.setState({product: response.data[0], loading: false});
+            axios.get(`http://localhost:1337/reviews/${this.state.product.productId}`)
+            .then((response) => {
+                console.log('Reviews', response.data)
+                this.setState({reviews: response.data})
+            });
         });
     }
 
@@ -83,7 +89,7 @@ class Frame extends React.Component {
         } else if (this.state.activeTab === 3) {
             return (<PackageDetailsBodyFrame />);
         } else if (this.state.activeTab === 4) {
-            return (<RatingsBodyFrame />);
+            return (<RatingsBodyFrame reviews={this.state.reviews}/>);
         }
     }
 
