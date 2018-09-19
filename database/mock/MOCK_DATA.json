@@ -1,0 +1,4285 @@
+[
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 103,
+        "width": 21,
+        "diameter": 94,
+        "cord_length": 43,
+        "power": 1,
+        "assembly": true,
+        "designer": "Maxie Port"
+      },
+      "bullets": [
+        "Cras pellentesque volutpat dui.",
+        "Quisque ut erat.",
+        "Integer tincidunt ante vel ipsum.",
+        "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+      ],
+      "good_to_know": [
+        "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+        "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      ],
+      "care_instructions": [
+        "Vestibulum ac est lacinia nisi venenatis tristique.",
+        "Duis mattis egestas metus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["vivamus"],
+      "shade": ["ac", "posuere"],
+      "tube": ["faucibus", "rutrum", "dolor"]
+    },
+    "assembly_docs": { "instructions": "TellusNisi.xls", "manual": "Enim.xls" },
+    "package_details": {
+      "article_number": 266805,
+      "packages": 4,
+      "width": 32,
+      "height": 85,
+      "length": 11,
+      "weight": 70
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 80,
+        "width": 8,
+        "diameter": 57,
+        "cord_length": 40,
+        "power": 25,
+        "assembly": true,
+        "designer": "Maje Burn"
+      },
+      "bullets": [
+        "Vivamus vel nulla eget eros elementum pellentesque.",
+        "Donec vitae nisi.",
+        "Donec dapibus.",
+        "Phasellus sit amet erat."
+      ],
+      "good_to_know": [
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+        "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      ],
+      "care_instructions": ["Suspendisse potenti.", "Integer non velit."]
+    },
+    "materials_env": {
+      "weight": ["tortor"],
+      "shade": ["nulla", "in"],
+      "tube": ["rhoncus", "ut", "etiam"]
+    },
+    "assembly_docs": {
+      "instructions": "Sapien.xls",
+      "manual": "AcNullaSed.xls"
+    },
+    "package_details": {
+      "article_number": 294448,
+      "packages": 5,
+      "width": 9,
+      "height": 57,
+      "length": 26,
+      "weight": 76
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 89,
+        "width": 22,
+        "diameter": 59,
+        "cord_length": 12,
+        "power": 19,
+        "assembly": true,
+        "designer": "Hayes Sibbit"
+      },
+      "bullets": [
+        "Nullam varius.",
+        "Nulla tellus.",
+        "Aliquam non mauris.",
+        "Fusce posuere felis sed lacus."
+      ],
+      "good_to_know": [
+        "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "care_instructions": [
+        "Sed accumsan felis.",
+        "Pellentesque ultrices mattis odio."
+      ]
+    },
+    "materials_env": {
+      "weight": ["ac"],
+      "shade": ["semper", "aliquet"],
+      "tube": ["ligula", "consequat", "quam"]
+    },
+    "assembly_docs": {
+      "instructions": "Massa.ppt",
+      "manual": "SapienCursusVestibulum.xls"
+    },
+    "package_details": {
+      "article_number": 122265,
+      "packages": 4,
+      "width": 33,
+      "height": 110,
+      "length": 106,
+      "weight": 11
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 77,
+        "width": 34,
+        "diameter": 84,
+        "cord_length": 58,
+        "power": 31,
+        "assembly": false,
+        "designer": "Rosalynd Dullard"
+      },
+      "bullets": [
+        "Fusce posuere felis sed lacus.",
+        "Suspendisse potenti.",
+        "Donec posuere metus vitae ipsum.",
+        "Integer ac leo."
+      ],
+      "good_to_know": [
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+        "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      ],
+      "care_instructions": [
+        "Suspendisse accumsan tortor quis turpis.",
+        "Nulla ac enim."
+      ]
+    },
+    "materials_env": {
+      "weight": ["viverra"],
+      "shade": ["nisl", "in"],
+      "tube": ["fermentum", "erat", "ut"]
+    },
+    "assembly_docs": {
+      "instructions": "VehiculaCondimentum.xls",
+      "manual": "Sit.pdf"
+    },
+    "package_details": {
+      "article_number": 268431,
+      "packages": 1,
+      "width": 19,
+      "height": 89,
+      "length": 86,
+      "weight": 76
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 41,
+        "width": 31,
+        "diameter": 41,
+        "cord_length": 59,
+        "power": 12,
+        "assembly": false,
+        "designer": "Elita Barrow"
+      },
+      "bullets": [
+        "Integer ac neque.",
+        "Ut at dolor quis odio consequat varius.",
+        "Morbi ut odio.",
+        "Integer non velit."
+      ],
+      "good_to_know": [
+        "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      ],
+      "care_instructions": [
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "Quisque porta volutpat erat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["pulvinar"],
+      "shade": ["pretium", "tincidunt"],
+      "tube": ["odio", "ante", "fusce"]
+    },
+    "assembly_docs": {
+      "instructions": "JustoPellentesqueViverra.ppt",
+      "manual": "BlanditNon.ppt"
+    },
+    "package_details": {
+      "article_number": 350988,
+      "packages": 7,
+      "width": 31,
+      "height": 107,
+      "length": 33,
+      "weight": 99
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 89,
+        "width": 12,
+        "diameter": 44,
+        "cord_length": 54,
+        "power": 48,
+        "assembly": true,
+        "designer": "Zsa zsa Artrick"
+      },
+      "bullets": [
+        "Duis bibendum.",
+        "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "Vivamus in felis eu sapien cursus vestibulum."
+      ],
+      "good_to_know": [
+        "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      ],
+      "care_instructions": [
+        "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "Duis mattis egestas metus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["sit"],
+      "shade": ["semper", "imperdiet"],
+      "tube": ["vivamus", "integer", "purus"]
+    },
+    "assembly_docs": {
+      "instructions": "CuraeDuisFaucibus.xls",
+      "manual": "ConvallisNuncProin.xls"
+    },
+    "package_details": {
+      "article_number": 435443,
+      "packages": 7,
+      "width": 14,
+      "height": 92,
+      "length": 11,
+      "weight": 9
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 109,
+        "width": 34,
+        "diameter": 44,
+        "cord_length": 16,
+        "power": 3,
+        "assembly": false,
+        "designer": "Rayner Shovelbottom"
+      },
+      "bullets": [
+        "Nulla tellus.",
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "In eleifend quam a odio.",
+        "Maecenas rhoncus aliquam lacus."
+      ],
+      "good_to_know": [
+        "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
+      ],
+      "care_instructions": [
+        "Nulla suscipit ligula in lacus.",
+        "In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      ]
+    },
+    "materials_env": {
+      "weight": ["volutpat"],
+      "shade": ["odio", "nibh"],
+      "tube": ["penatibus", "est", "cum"]
+    },
+    "assembly_docs": {
+      "instructions": "HacHabitassePlatea.ppt",
+      "manual": "IdLuctusNec.pdf"
+    },
+    "package_details": {
+      "article_number": 477518,
+      "packages": 5,
+      "width": 9,
+      "height": 50,
+      "length": 106,
+      "weight": 29
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 91,
+        "width": 21,
+        "diameter": 46,
+        "cord_length": 63,
+        "power": 27,
+        "assembly": true,
+        "designer": "Jeanna todor"
+      },
+      "bullets": [
+        "Donec ut dolor.",
+        "Nam dui.",
+        "In hac habitasse platea dictumst.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "good_to_know": [
+        "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      ],
+      "care_instructions": ["Nunc nisl.", "Morbi a ipsum."]
+    },
+    "materials_env": {
+      "weight": ["curae"],
+      "shade": ["viverra", "ultrices"],
+      "tube": ["convallis", "ac", "nisl"]
+    },
+    "assembly_docs": {
+      "instructions": "DolorMorbiVel.xls",
+      "manual": "Tristique.xls"
+    },
+    "package_details": {
+      "article_number": 8456,
+      "packages": 2,
+      "width": 6,
+      "height": 73,
+      "length": 99,
+      "weight": 82
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 100,
+        "width": 26,
+        "diameter": 38,
+        "cord_length": 30,
+        "power": 52,
+        "assembly": false,
+        "designer": "Alis Doring"
+      },
+      "bullets": [
+        "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "Aliquam non mauris.",
+        "Integer ac neque."
+      ],
+      "good_to_know": [
+        "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      ],
+      "care_instructions": [
+        "In hac habitasse platea dictumst.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      ]
+    },
+    "materials_env": {
+      "weight": ["proin"],
+      "shade": ["ac", "quis"],
+      "tube": ["amet", "praesent", "morbi"]
+    },
+    "assembly_docs": {
+      "instructions": "AtNunc.xls",
+      "manual": "SitAmetEleifend.ppt"
+    },
+    "package_details": {
+      "article_number": 113805,
+      "packages": 4,
+      "width": 11,
+      "height": 52,
+      "length": 12,
+      "weight": 84
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 44,
+        "width": 28,
+        "diameter": 18,
+        "cord_length": 15,
+        "power": 60,
+        "assembly": false,
+        "designer": "Xenia Lemon"
+      },
+      "bullets": [
+        "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "Ut tellus.",
+        "Morbi vel lectus in quam fringilla rhoncus.",
+        "Quisque ut erat."
+      ],
+      "good_to_know": [
+        "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      ],
+      "care_instructions": ["Pellentesque viverra pede ac diam.", "Nam dui."]
+    },
+    "materials_env": {
+      "weight": ["mi"],
+      "shade": ["varius", "elit"],
+      "tube": ["nonummy", "non", "nisl"]
+    },
+    "assembly_docs": {
+      "instructions": "UltricesVelAugue.pdf",
+      "manual": "NullaPede.xls"
+    },
+    "package_details": {
+      "article_number": 414724,
+      "packages": 3,
+      "width": 34,
+      "height": 109,
+      "length": 76,
+      "weight": 50
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 33,
+        "width": 30,
+        "diameter": 97,
+        "cord_length": 61,
+        "power": 41,
+        "assembly": false,
+        "designer": "Lynsey Haining"
+      },
+      "bullets": [
+        "Duis mattis egestas metus.",
+        "Nulla ac enim.",
+        "Nullam porttitor lacus at turpis.",
+        "In blandit ultrices enim."
+      ],
+      "good_to_know": [
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      ],
+      "care_instructions": [
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+        "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      ]
+    },
+    "materials_env": {
+      "weight": ["ut"],
+      "shade": ["amet", "eget"],
+      "tube": ["sed", "nunc", "lectus"]
+    },
+    "assembly_docs": { "instructions": "Pretium.pdf", "manual": "Diam.xls" },
+    "package_details": {
+      "article_number": 436550,
+      "packages": 6,
+      "width": 35,
+      "height": 18,
+      "length": 116,
+      "weight": 88
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 72,
+        "width": 13,
+        "diameter": 85,
+        "cord_length": 31,
+        "power": 13,
+        "assembly": false,
+        "designer": "Mariquilla Gabbat"
+      },
+      "bullets": [
+        "Nunc nisl.",
+        "Proin at turpis a pede posuere nonummy.",
+        "In congue.",
+        "Nulla tellus."
+      ],
+      "good_to_know": [
+        "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+      ],
+      "care_instructions": [
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Duis ac nibh."
+      ]
+    },
+    "materials_env": {
+      "weight": ["blandit"],
+      "shade": ["magna", "semper"],
+      "tube": ["curabitur", "varius", "neque"]
+    },
+    "assembly_docs": {
+      "instructions": "NuncDonecQuis.ppt",
+      "manual": "Tortor.pdf"
+    },
+    "package_details": {
+      "article_number": 298724,
+      "packages": 7,
+      "width": 11,
+      "height": 50,
+      "length": 84,
+      "weight": 29
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 66,
+        "width": 8,
+        "diameter": 77,
+        "cord_length": 57,
+        "power": 51,
+        "assembly": false,
+        "designer": "Breena Ewbank"
+      },
+      "bullets": [
+        "Integer non velit.",
+        "Sed vel enim sit amet nunc viverra dapibus.",
+        "Curabitur in libero ut massa volutpat convallis.",
+        "Ut at dolor quis odio consequat varius."
+      ],
+      "good_to_know": [
+        "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+        "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      ],
+      "care_instructions": [
+        "Nulla ut erat id mauris vulputate elementum.",
+        "Etiam pretium iaculis justo."
+      ]
+    },
+    "materials_env": {
+      "weight": ["velit"],
+      "shade": ["nulla", "habitasse"],
+      "tube": ["morbi", "id", "tristique"]
+    },
+    "assembly_docs": {
+      "instructions": "AccumsanTortorQuis.ppt",
+      "manual": "AmetErat.ppt"
+    },
+    "package_details": {
+      "article_number": 7205,
+      "packages": 2,
+      "width": 29,
+      "height": 38,
+      "length": 76,
+      "weight": 42
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 111,
+        "width": 34,
+        "diameter": 13,
+        "cord_length": 19,
+        "power": 50,
+        "assembly": false,
+        "designer": "Keenan Pain"
+      },
+      "bullets": [
+        "Suspendisse ornare consequat lectus.",
+        "Donec ut dolor.",
+        "Morbi non lectus.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "good_to_know": [
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+      ],
+      "care_instructions": [
+        "Aenean lectus.",
+        "Phasellus id sapien in sapien iaculis congue."
+      ]
+    },
+    "materials_env": {
+      "weight": ["ultricies"],
+      "shade": ["non", "dictumst"],
+      "tube": ["id", "maecenas", "orci"]
+    },
+    "assembly_docs": { "instructions": "A.xls", "manual": "At.xls" },
+    "package_details": {
+      "article_number": 74993,
+      "packages": 4,
+      "width": 10,
+      "height": 76,
+      "length": 45,
+      "weight": 27
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 80,
+        "width": 30,
+        "diameter": 98,
+        "cord_length": 22,
+        "power": 1,
+        "assembly": true,
+        "designer": "Shaine Barwis"
+      },
+      "bullets": [
+        "Etiam vel augue.",
+        "Etiam vel augue.",
+        "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      ],
+      "good_to_know": [
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      ],
+      "care_instructions": [
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Nulla ac enim."
+      ]
+    },
+    "materials_env": {
+      "weight": ["a"],
+      "shade": ["ut", "sem"],
+      "tube": ["lacus", "consequat", "ac"]
+    },
+    "assembly_docs": {
+      "instructions": "PretiumQuis.xls",
+      "manual": "HabitassePlateaDictumst.xls"
+    },
+    "package_details": {
+      "article_number": 467387,
+      "packages": 3,
+      "width": 15,
+      "height": 72,
+      "length": 17,
+      "weight": 41
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 6,
+        "width": 25,
+        "diameter": 95,
+        "cord_length": 32,
+        "power": 25,
+        "assembly": true,
+        "designer": "Noni Crudginton"
+      },
+      "bullets": [
+        "Mauris ullamcorper purus sit amet nulla.",
+        "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "Sed accumsan felis.",
+        "Mauris ullamcorper purus sit amet nulla."
+      ],
+      "good_to_know": [
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+      ],
+      "care_instructions": [
+        "Fusce consequat.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      ]
+    },
+    "materials_env": {
+      "weight": ["pede"],
+      "shade": ["non", "placerat"],
+      "tube": ["tempus", "quam", "felis"]
+    },
+    "assembly_docs": {
+      "instructions": "VelNulla.ppt",
+      "manual": "Vehicula.pdf"
+    },
+    "package_details": {
+      "article_number": 196477,
+      "packages": 5,
+      "width": 12,
+      "height": 18,
+      "length": 97,
+      "weight": 65
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 9,
+        "width": 23,
+        "diameter": 98,
+        "cord_length": 26,
+        "power": 35,
+        "assembly": false,
+        "designer": "Johnny Britner"
+      },
+      "bullets": [
+        "Duis ac nibh.",
+        "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Nulla tellus.",
+        "Morbi non quam nec dui luctus rutrum."
+      ],
+      "good_to_know": [
+        "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      ],
+      "care_instructions": [
+        "Vestibulum sed magna at nunc commodo placerat.",
+        "Donec posuere metus vitae ipsum."
+      ]
+    },
+    "materials_env": {
+      "weight": ["arcu"],
+      "shade": ["hendrerit", "risus"],
+      "tube": ["felis", "nulla", "faucibus"]
+    },
+    "assembly_docs": {
+      "instructions": "PurusEuMagna.pdf",
+      "manual": "Est.ppt"
+    },
+    "package_details": {
+      "article_number": 455644,
+      "packages": 7,
+      "width": 22,
+      "height": 56,
+      "length": 20,
+      "weight": 65
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 85,
+        "width": 28,
+        "diameter": 104,
+        "cord_length": 12,
+        "power": 16,
+        "assembly": false,
+        "designer": "Jamesy Dowdell"
+      },
+      "bullets": [
+        "Nulla tempus.",
+        "Morbi vel lectus in quam fringilla rhoncus.",
+        "Proin at turpis a pede posuere nonummy.",
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      ],
+      "good_to_know": [
+        "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+      ],
+      "care_instructions": [
+        "Cras in purus eu magna vulputate luctus.",
+        "Cras pellentesque volutpat dui."
+      ]
+    },
+    "materials_env": {
+      "weight": ["nibh"],
+      "shade": ["luctus", "fusce"],
+      "tube": ["a", "habitasse", "nullam"]
+    },
+    "assembly_docs": {
+      "instructions": "PedeLibero.ppt",
+      "manual": "GravidaNisiAt.xls"
+    },
+    "package_details": {
+      "article_number": 499048,
+      "packages": 4,
+      "width": 30,
+      "height": 43,
+      "length": 68,
+      "weight": 98
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 62,
+        "width": 18,
+        "diameter": 100,
+        "cord_length": 30,
+        "power": 34,
+        "assembly": true,
+        "designer": "Petra Renfrew"
+      },
+      "bullets": [
+        "Nam dui.",
+        "Pellentesque eget nunc.",
+        "Mauris lacinia sapien quis libero.",
+        "Proin eu mi."
+      ],
+      "good_to_know": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+        "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      ],
+      "care_instructions": [
+        "Curabitur at ipsum ac tellus semper interdum.",
+        "Praesent id massa id nisl venenatis lacinia."
+      ]
+    },
+    "materials_env": {
+      "weight": ["mauris"],
+      "shade": ["felis", "volutpat"],
+      "tube": ["curabitur", "blandit", "rutrum"]
+    },
+    "assembly_docs": { "instructions": "FelisSed.xls", "manual": "Non.ppt" },
+    "package_details": {
+      "article_number": 318477,
+      "packages": 1,
+      "width": 29,
+      "height": 7,
+      "length": 101,
+      "weight": 83
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 6,
+        "width": 30,
+        "diameter": 62,
+        "cord_length": 67,
+        "power": 10,
+        "assembly": true,
+        "designer": "Stepha Brissenden"
+      },
+      "bullets": [
+        "Morbi non quam nec dui luctus rutrum.",
+        "Praesent id massa id nisl venenatis lacinia.",
+        "Duis mattis egestas metus.",
+        "In hac habitasse platea dictumst."
+      ],
+      "good_to_know": [
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+      ],
+      "care_instructions": ["In sagittis dui vel nisl.", "Donec dapibus."]
+    },
+    "materials_env": {
+      "weight": ["vulputate"],
+      "shade": ["justo", "convallis"],
+      "tube": ["pede", "in", "orci"]
+    },
+    "assembly_docs": { "instructions": "FelisUtAt.pdf", "manual": "Ante.xls" },
+    "package_details": {
+      "article_number": 85893,
+      "packages": 7,
+      "width": 18,
+      "height": 11,
+      "length": 8,
+      "weight": 71
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 119,
+        "width": 23,
+        "diameter": 81,
+        "cord_length": 55,
+        "power": 20,
+        "assembly": true,
+        "designer": "Benoite Ferrieres"
+      },
+      "bullets": [
+        "In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "Nunc nisl.",
+        "Curabitur convallis.",
+        "Aenean lectus."
+      ],
+      "good_to_know": [
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      ],
+      "care_instructions": ["Integer a nibh.", "Aenean sit amet justo."]
+    },
+    "materials_env": {
+      "weight": ["lobortis"],
+      "shade": ["pede", "libero"],
+      "tube": ["turpis", "et", "in"]
+    },
+    "assembly_docs": {
+      "instructions": "NamUltricesLibero.pdf",
+      "manual": "DonecSemperSapien.xls"
+    },
+    "package_details": {
+      "article_number": 300090,
+      "packages": 1,
+      "width": 10,
+      "height": 83,
+      "length": 14,
+      "weight": 18
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 75,
+        "width": 16,
+        "diameter": 42,
+        "cord_length": 57,
+        "power": 17,
+        "assembly": false,
+        "designer": "Colleen Chappel"
+      },
+      "bullets": [
+        "Sed sagittis.",
+        "Praesent id massa id nisl venenatis lacinia.",
+        "In blandit ultrices enim.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      ],
+      "good_to_know": [
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+      ],
+      "care_instructions": [
+        "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+        "Donec posuere metus vitae ipsum."
+      ]
+    },
+    "materials_env": {
+      "weight": ["aliquam"],
+      "shade": ["porta", "nisi"],
+      "tube": ["porttitor", "aliquam", "sit"]
+    },
+    "assembly_docs": {
+      "instructions": "Congue.pdf",
+      "manual": "VulputateJusto.pdf"
+    },
+    "package_details": {
+      "article_number": 493758,
+      "packages": 2,
+      "width": 15,
+      "height": 77,
+      "length": 118,
+      "weight": 100
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 37,
+        "width": 35,
+        "diameter": 83,
+        "cord_length": 62,
+        "power": 25,
+        "assembly": false,
+        "designer": "Zacherie Verrill"
+      },
+      "bullets": [
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "Praesent blandit lacinia erat.",
+        "Fusce consequat.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."
+      ],
+      "good_to_know": [
+        "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+      ],
+      "care_instructions": [
+        "Nullam sit amet turpis elementum ligula vehicula consequat.",
+        "Integer ac neque."
+      ]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["convallis", "cubilia"],
+      "tube": ["nullam", "hac", "venenatis"]
+    },
+    "assembly_docs": { "instructions": "NisiAtNibh.ppt", "manual": "Odio.xls" },
+    "package_details": {
+      "article_number": 138794,
+      "packages": 1,
+      "width": 19,
+      "height": 55,
+      "length": 106,
+      "weight": 25
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 87,
+        "width": 22,
+        "diameter": 55,
+        "cord_length": 49,
+        "power": 22,
+        "assembly": false,
+        "designer": "Karil Mc Kellen"
+      },
+      "bullets": [
+        "Aliquam non mauris.",
+        "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+        "Sed ante.",
+        "Donec quis orci eget orci vehicula condimentum."
+      ],
+      "good_to_know": [
+        "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      ],
+      "care_instructions": [
+        "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+        "Duis at velit eu est congue elementum."
+      ]
+    },
+    "materials_env": {
+      "weight": ["sit"],
+      "shade": ["pretium", "ullamcorper"],
+      "tube": ["id", "nibh", "in"]
+    },
+    "assembly_docs": {
+      "instructions": "DapibusDolorVel.xls",
+      "manual": "InLacus.doc"
+    },
+    "package_details": {
+      "article_number": 157422,
+      "packages": 7,
+      "width": 14,
+      "height": 47,
+      "length": 43,
+      "weight": 11
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 115,
+        "width": 22,
+        "diameter": 92,
+        "cord_length": 29,
+        "power": 49,
+        "assembly": false,
+        "designer": "Reube Prestney"
+      },
+      "bullets": [
+        "Integer a nibh.",
+        "Mauris ullamcorper purus sit amet nulla.",
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Cras non velit nec nisi vulputate nonummy."
+      ],
+      "good_to_know": [
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+      ],
+      "care_instructions": [
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+        "In congue."
+      ]
+    },
+    "materials_env": {
+      "weight": ["pede"],
+      "shade": ["lobortis", "velit"],
+      "tube": ["sodales", "donec", "a"]
+    },
+    "assembly_docs": {
+      "instructions": "AnteVestibulum.ppt",
+      "manual": "NecMolestie.ppt"
+    },
+    "package_details": {
+      "article_number": 149805,
+      "packages": 7,
+      "width": 13,
+      "height": 53,
+      "length": 57,
+      "weight": 88
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 18,
+        "width": 7,
+        "diameter": 66,
+        "cord_length": 67,
+        "power": 25,
+        "assembly": true,
+        "designer": "Daron Climo"
+      },
+      "bullets": [
+        "Suspendisse ornare consequat lectus.",
+        "Nunc purus.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "Nam dui."
+      ],
+      "good_to_know": [
+        "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+        "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl."
+      ],
+      "care_instructions": [
+        "Morbi quis tortor id nulla ultrices aliquet.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio."
+      ]
+    },
+    "materials_env": {
+      "weight": ["leo"],
+      "shade": ["vel", "ipsum"],
+      "tube": ["varius", "eu", "ut"]
+    },
+    "assembly_docs": { "instructions": "Odio.xls", "manual": "Eget.pdf" },
+    "package_details": {
+      "article_number": 16120,
+      "packages": 3,
+      "width": 9,
+      "height": 120,
+      "length": 76,
+      "weight": 35
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 96,
+        "width": 25,
+        "diameter": 52,
+        "cord_length": 30,
+        "power": 20,
+        "assembly": false,
+        "designer": "Brandais Secker"
+      },
+      "bullets": [
+        "Vivamus vestibulum sagittis sapien.",
+        "Maecenas ut massa quis augue luctus tincidunt.",
+        "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+        "Donec ut dolor."
+      ],
+      "good_to_know": [
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      ],
+      "care_instructions": [
+        "Suspendisse ornare consequat lectus.",
+        "In hac habitasse platea dictumst."
+      ]
+    },
+    "materials_env": {
+      "weight": ["urna"],
+      "shade": ["donec", "porttitor"],
+      "tube": ["nisi", "enim", "augue"]
+    },
+    "assembly_docs": {
+      "instructions": "Lacinia.xls",
+      "manual": "AeneanLectusPellentesque.xls"
+    },
+    "package_details": {
+      "article_number": 79844,
+      "packages": 3,
+      "width": 18,
+      "height": 117,
+      "length": 118,
+      "weight": 45
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 28,
+        "width": 28,
+        "diameter": 59,
+        "cord_length": 49,
+        "power": 16,
+        "assembly": false,
+        "designer": "Thorndike Bains"
+      },
+      "bullets": [
+        "In sagittis dui vel nisl.",
+        "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "Nulla nisl.",
+        "Nam nulla."
+      ],
+      "good_to_know": [
+        "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      ],
+      "care_instructions": [
+        "Quisque porta volutpat erat.",
+        "Aliquam sit amet diam in magna bibendum imperdiet."
+      ]
+    },
+    "materials_env": {
+      "weight": ["eu"],
+      "shade": ["vehicula", "consequat"],
+      "tube": ["tempus", "justo", "eu"]
+    },
+    "assembly_docs": {
+      "instructions": "EgetNunc.xls",
+      "manual": "TurpisSed.ppt"
+    },
+    "package_details": {
+      "article_number": 70756,
+      "packages": 3,
+      "width": 25,
+      "height": 47,
+      "length": 107,
+      "weight": 22
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 86,
+        "width": 21,
+        "diameter": 106,
+        "cord_length": 31,
+        "power": 33,
+        "assembly": false,
+        "designer": "Meredithe Palke"
+      },
+      "bullets": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Cras pellentesque volutpat dui.",
+        "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "good_to_know": [
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+        "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      ],
+      "care_instructions": [
+        "Donec dapibus.",
+        "Proin interdum mauris non ligula pellentesque ultrices."
+      ]
+    },
+    "materials_env": {
+      "weight": ["donec"],
+      "shade": ["quam", "lacinia"],
+      "tube": ["molestie", "luctus", "ante"]
+    },
+    "assembly_docs": {
+      "instructions": "InCongue.ppt",
+      "manual": "NislDuisBibendum.xls"
+    },
+    "package_details": {
+      "article_number": 183608,
+      "packages": 1,
+      "width": 10,
+      "height": 107,
+      "length": 70,
+      "weight": 93
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 69,
+        "width": 9,
+        "diameter": 29,
+        "cord_length": 21,
+        "power": 26,
+        "assembly": true,
+        "designer": "Cozmo Sparkes"
+      },
+      "bullets": [
+        "Sed accumsan felis.",
+        "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+        "Praesent blandit.",
+        "Donec dapibus."
+      ],
+      "good_to_know": [
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+        "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      ],
+      "care_instructions": [
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Integer a nibh."
+      ]
+    },
+    "materials_env": {
+      "weight": ["faucibus"],
+      "shade": ["ut", "blandit"],
+      "tube": ["sit", "in", "nullam"]
+    },
+    "assembly_docs": {
+      "instructions": "LectusAliquam.ppt",
+      "manual": "NuncVestibulum.ppt"
+    },
+    "package_details": {
+      "article_number": 344468,
+      "packages": 7,
+      "width": 32,
+      "height": 120,
+      "length": 119,
+      "weight": 80
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 119,
+        "width": 17,
+        "diameter": 106,
+        "cord_length": 25,
+        "power": 4,
+        "assembly": true,
+        "designer": "Forest Shirtliff"
+      },
+      "bullets": [
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+        "Duis consequat dui nec nisi volutpat eleifend.",
+        "Suspendisse ornare consequat lectus.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "good_to_know": [
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "care_instructions": [
+        "Phasellus in felis.",
+        "Maecenas tincidunt lacus at velit."
+      ]
+    },
+    "materials_env": {
+      "weight": ["nibh"],
+      "shade": ["ultrices", "leo"],
+      "tube": ["diam", "rhoncus", "semper"]
+    },
+    "assembly_docs": {
+      "instructions": "Ridiculus.ppt",
+      "manual": "EuInterdum.xls"
+    },
+    "package_details": {
+      "article_number": 396449,
+      "packages": 5,
+      "width": 16,
+      "height": 110,
+      "length": 54,
+      "weight": 99
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 105,
+        "width": 18,
+        "diameter": 25,
+        "cord_length": 41,
+        "power": 52,
+        "assembly": true,
+        "designer": "Hali Pickerin"
+      },
+      "bullets": [
+        "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+        "Nam dui.",
+        "Curabitur gravida nisi at nibh.",
+        "Fusce posuere felis sed lacus."
+      ],
+      "good_to_know": [
+        "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+        "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+      ],
+      "care_instructions": ["Aenean lectus.", "Sed accumsan felis."]
+    },
+    "materials_env": {
+      "weight": ["nullam"],
+      "shade": ["eu", "imperdiet"],
+      "tube": ["duis", "quis", "sit"]
+    },
+    "assembly_docs": {
+      "instructions": "MorbiOdioOdio.doc",
+      "manual": "Porttitor.ppt"
+    },
+    "package_details": {
+      "article_number": 282136,
+      "packages": 5,
+      "width": 31,
+      "height": 62,
+      "length": 119,
+      "weight": 58
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 19,
+        "width": 30,
+        "diameter": 23,
+        "cord_length": 61,
+        "power": 23,
+        "assembly": false,
+        "designer": "Alecia Cliburn"
+      },
+      "bullets": [
+        "Nunc purus.",
+        "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+        "Quisque id justo sit amet sapien dignissim vestibulum.",
+        "Suspendisse accumsan tortor quis turpis."
+      ],
+      "good_to_know": [
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      ],
+      "care_instructions": [
+        "Sed accumsan felis.",
+        "Nulla mollis molestie lorem."
+      ]
+    },
+    "materials_env": {
+      "weight": ["id"],
+      "shade": ["mollis", "amet"],
+      "tube": ["pretium", "dapibus", "sit"]
+    },
+    "assembly_docs": { "instructions": "Dui.xls", "manual": "Ante.xls" },
+    "package_details": {
+      "article_number": 59960,
+      "packages": 1,
+      "width": 8,
+      "height": 11,
+      "length": 105,
+      "weight": 8
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 64,
+        "width": 22,
+        "diameter": 87,
+        "cord_length": 51,
+        "power": 12,
+        "assembly": false,
+        "designer": "Rosalie Auston"
+      },
+      "bullets": [
+        "Duis mattis egestas metus.",
+        "Quisque id justo sit amet sapien dignissim vestibulum.",
+        "Pellentesque ultrices mattis odio.",
+        "Maecenas tincidunt lacus at velit."
+      ],
+      "good_to_know": [
+        "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      ],
+      "care_instructions": [
+        "Nam tristique tortor eu pede.",
+        "Cras in purus eu magna vulputate luctus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["donec"],
+      "shade": ["sed", "ante"],
+      "tube": ["quis", "pulvinar", "lectus"]
+    },
+    "assembly_docs": {
+      "instructions": "TurpisSed.ppt",
+      "manual": "NullaAcEnim.xls"
+    },
+    "package_details": {
+      "article_number": 316446,
+      "packages": 5,
+      "width": 32,
+      "height": 28,
+      "length": 95,
+      "weight": 8
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 103,
+        "width": 23,
+        "diameter": 58,
+        "cord_length": 43,
+        "power": 46,
+        "assembly": false,
+        "designer": "Goldina Forton"
+      },
+      "bullets": [
+        "In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Vestibulum ac est lacinia nisi venenatis tristique.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      ],
+      "good_to_know": [
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      ],
+      "care_instructions": [
+        "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "Nunc purus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["magna"],
+      "shade": ["luctus", "libero"],
+      "tube": ["convallis", "ante", "eleifend"]
+    },
+    "assembly_docs": {
+      "instructions": "CursusVestibulumProin.xls",
+      "manual": "UtTellus.ppt"
+    },
+    "package_details": {
+      "article_number": 145034,
+      "packages": 4,
+      "width": 18,
+      "height": 91,
+      "length": 81,
+      "weight": 45
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 77,
+        "width": 30,
+        "diameter": 114,
+        "cord_length": 55,
+        "power": 23,
+        "assembly": false,
+        "designer": "Minetta Teasey"
+      },
+      "bullets": [
+        "Etiam justo.",
+        "Aliquam non mauris.",
+        "Aliquam quis turpis eget elit sodales scelerisque.",
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      ],
+      "good_to_know": [
+        "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      ],
+      "care_instructions": [
+        "Nullam molestie nibh in lectus.",
+        "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+      ]
+    },
+    "materials_env": {
+      "weight": ["habitasse"],
+      "shade": ["lectus", "ultrices"],
+      "tube": ["sit", "in", "nisl"]
+    },
+    "assembly_docs": { "instructions": "Consequat.xls", "manual": "Est.ppt" },
+    "package_details": {
+      "article_number": 496370,
+      "packages": 4,
+      "width": 33,
+      "height": 108,
+      "length": 50,
+      "weight": 11
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 76,
+        "width": 20,
+        "diameter": 103,
+        "cord_length": 28,
+        "power": 18,
+        "assembly": false,
+        "designer": "Terrijo Brisco"
+      },
+      "bullets": [
+        "Integer a nibh.",
+        "Phasellus id sapien in sapien iaculis congue.",
+        "Vivamus vel nulla eget eros elementum pellentesque.",
+        "Sed accumsan felis."
+      ],
+      "good_to_know": [
+        "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      ],
+      "care_instructions": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Nulla facilisi."
+      ]
+    },
+    "materials_env": {
+      "weight": ["lorem"],
+      "shade": ["vel", "habitasse"],
+      "tube": ["consequat", "lorem", "non"]
+    },
+    "assembly_docs": {
+      "instructions": "Sapien.xls",
+      "manual": "BlanditNamNulla.ppt"
+    },
+    "package_details": {
+      "article_number": 134028,
+      "packages": 5,
+      "width": 19,
+      "height": 99,
+      "length": 88,
+      "weight": 88
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 56,
+        "width": 28,
+        "diameter": 61,
+        "cord_length": 13,
+        "power": 34,
+        "assembly": true,
+        "designer": "Delilah Surpliss"
+      },
+      "bullets": [
+        "Nunc rhoncus dui vel sem.",
+        "Morbi quis tortor id nulla ultrices aliquet.",
+        "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      ],
+      "good_to_know": [
+        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo."
+      ],
+      "care_instructions": [
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
+        "Fusce consequat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["quis"],
+      "shade": ["eleifend", "lobortis"],
+      "tube": ["natoque", "cubilia", "habitasse"]
+    },
+    "assembly_docs": {
+      "instructions": "NibhIn.pdf",
+      "manual": "EstLaciniaNisi.pdf"
+    },
+    "package_details": {
+      "article_number": 397448,
+      "packages": 3,
+      "width": 27,
+      "height": 62,
+      "length": 43,
+      "weight": 81
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 114,
+        "width": 33,
+        "diameter": 117,
+        "cord_length": 71,
+        "power": 12,
+        "assembly": true,
+        "designer": "Kacie Pain"
+      },
+      "bullets": [
+        "Integer a nibh.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+        "In hac habitasse platea dictumst.",
+        "Nulla nisl."
+      ],
+      "good_to_know": [
+        "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
+      ],
+      "care_instructions": [
+        "Nulla ac enim.",
+        "Donec quis orci eget orci vehicula condimentum."
+      ]
+    },
+    "materials_env": {
+      "weight": ["sem"],
+      "shade": ["nulla", "odio"],
+      "tube": ["vulputate", "parturient", "augue"]
+    },
+    "assembly_docs": {
+      "instructions": "EuMassaDonec.xls",
+      "manual": "Congue.ppt"
+    },
+    "package_details": {
+      "article_number": 384699,
+      "packages": 5,
+      "width": 31,
+      "height": 49,
+      "length": 117,
+      "weight": 40
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 57,
+        "width": 27,
+        "diameter": 71,
+        "cord_length": 66,
+        "power": 60,
+        "assembly": true,
+        "designer": "Bea Scamerdine"
+      },
+      "bullets": [
+        "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "Pellentesque viverra pede ac diam.",
+        "Pellentesque viverra pede ac diam.",
+        "Vestibulum rutrum rutrum neque."
+      ],
+      "good_to_know": [
+        "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+      ],
+      "care_instructions": [
+        "Nullam sit amet turpis elementum ligula vehicula consequat.",
+        "Aliquam quis turpis eget elit sodales scelerisque."
+      ]
+    },
+    "materials_env": {
+      "weight": ["cubilia"],
+      "shade": ["lacus", "auctor"],
+      "tube": ["aliquam", "platea", "tincidunt"]
+    },
+    "assembly_docs": {
+      "instructions": "MaecenasLeo.pdf",
+      "manual": "FelisSed.xls"
+    },
+    "package_details": {
+      "article_number": 145994,
+      "packages": 5,
+      "width": 15,
+      "height": 103,
+      "length": 110,
+      "weight": 75
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 51,
+        "width": 13,
+        "diameter": 116,
+        "cord_length": 62,
+        "power": 20,
+        "assembly": false,
+        "designer": "Paulette Shillingford"
+      },
+      "bullets": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Aliquam non mauris.",
+        "Donec dapibus.",
+        "Donec ut dolor."
+      ],
+      "good_to_know": [
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      ],
+      "care_instructions": [
+        "In eleifend quam a odio.",
+        "Proin interdum mauris non ligula pellentesque ultrices."
+      ]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["nec", "vulputate"],
+      "tube": ["dapibus", "neque", "vestibulum"]
+    },
+    "assembly_docs": {
+      "instructions": "NullamVariusNulla.ppt",
+      "manual": "DiamVitae.ppt"
+    },
+    "package_details": {
+      "article_number": 119431,
+      "packages": 4,
+      "width": 34,
+      "height": 72,
+      "length": 73,
+      "weight": 34
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 10,
+        "width": 28,
+        "diameter": 79,
+        "cord_length": 51,
+        "power": 50,
+        "assembly": true,
+        "designer": "Fraser Cossor"
+      },
+      "bullets": [
+        "Sed vel enim sit amet nunc viverra dapibus.",
+        "Ut tellus.",
+        "Morbi a ipsum.",
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      ],
+      "good_to_know": [
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      ],
+      "care_instructions": [
+        "Integer non velit.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio."
+      ]
+    },
+    "materials_env": {
+      "weight": ["laoreet"],
+      "shade": ["nunc", "praesent"],
+      "tube": ["blandit", "curabitur", "turpis"]
+    },
+    "assembly_docs": { "instructions": "AmetJusto.xls", "manual": "Dui.ppt" },
+    "package_details": {
+      "article_number": 357174,
+      "packages": 2,
+      "width": 29,
+      "height": 40,
+      "length": 86,
+      "weight": 97
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 62,
+        "width": 22,
+        "diameter": 105,
+        "cord_length": 57,
+        "power": 57,
+        "assembly": true,
+        "designer": "Sonia Poxson"
+      },
+      "bullets": [
+        "Vestibulum sed magna at nunc commodo placerat.",
+        "Etiam faucibus cursus urna.",
+        "Suspendisse potenti.",
+        "Ut tellus."
+      ],
+      "good_to_know": [
+        "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      ],
+      "care_instructions": [
+        "Curabitur at ipsum ac tellus semper interdum.",
+        "In congue."
+      ]
+    },
+    "materials_env": {
+      "weight": ["vivamus"],
+      "shade": ["a", "in"],
+      "tube": ["imperdiet", "porta", "pede"]
+    },
+    "assembly_docs": {
+      "instructions": "EtiamPretiumIaculis.xls",
+      "manual": "SollicitudinMi.ppt"
+    },
+    "package_details": {
+      "article_number": 332485,
+      "packages": 5,
+      "width": 34,
+      "height": 34,
+      "length": 120,
+      "weight": 98
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 98,
+        "width": 25,
+        "diameter": 71,
+        "cord_length": 47,
+        "power": 30,
+        "assembly": true,
+        "designer": "Barnett Featherbie"
+      },
+      "bullets": [
+        "Phasellus sit amet erat.",
+        "Etiam vel augue.",
+        "In hac habitasse platea dictumst.",
+        "Maecenas ut massa quis augue luctus tincidunt."
+      ],
+      "good_to_know": [
+        "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      ],
+      "care_instructions": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Integer non velit."
+      ]
+    },
+    "materials_env": {
+      "weight": ["sit"],
+      "shade": ["ullamcorper", "vehicula"],
+      "tube": ["nulla", "molestie", "donec"]
+    },
+    "assembly_docs": {
+      "instructions": "Amet.pdf",
+      "manual": "SedSagittisNam.ppt"
+    },
+    "package_details": {
+      "article_number": 211900,
+      "packages": 5,
+      "width": 24,
+      "height": 14,
+      "length": 48,
+      "weight": 98
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 21,
+        "width": 19,
+        "diameter": 78,
+        "cord_length": 68,
+        "power": 5,
+        "assembly": false,
+        "designer": "Dalia Marcombe"
+      },
+      "bullets": [
+        "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+        "In sagittis dui vel nisl.",
+        "Morbi quis tortor id nulla ultrices aliquet.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "good_to_know": [
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+        "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      ],
+      "care_instructions": [
+        "Suspendisse potenti.",
+        "Pellentesque ultrices mattis odio."
+      ]
+    },
+    "materials_env": {
+      "weight": ["leo"],
+      "shade": ["placerat", "curabitur"],
+      "tube": ["id", "lorem", "in"]
+    },
+    "assembly_docs": {
+      "instructions": "Amet.pdf",
+      "manual": "SemperSapienA.pdf"
+    },
+    "package_details": {
+      "article_number": 198198,
+      "packages": 7,
+      "width": 14,
+      "height": 73,
+      "length": 26,
+      "weight": 90
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 85,
+        "width": 36,
+        "diameter": 77,
+        "cord_length": 40,
+        "power": 43,
+        "assembly": true,
+        "designer": "Arlena Ivashnikov"
+      },
+      "bullets": [
+        "Mauris ullamcorper purus sit amet nulla.",
+        "Mauris ullamcorper purus sit amet nulla.",
+        "Maecenas ut massa quis augue luctus tincidunt.",
+        "Fusce posuere felis sed lacus."
+      ],
+      "good_to_know": [
+        "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      ],
+      "care_instructions": [
+        "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+        "Aenean sit amet justo."
+      ]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["maecenas", "fermentum"],
+      "tube": ["sagittis", "ultrices", "faucibus"]
+    },
+    "assembly_docs": { "instructions": "SodalesSed.ppt", "manual": "Sit.ppt" },
+    "package_details": {
+      "article_number": 245755,
+      "packages": 7,
+      "width": 19,
+      "height": 8,
+      "length": 85,
+      "weight": 95
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 32,
+        "width": 15,
+        "diameter": 39,
+        "cord_length": 61,
+        "power": 37,
+        "assembly": false,
+        "designer": "Eugen Kembrey"
+      },
+      "bullets": [
+        "Morbi vel lectus in quam fringilla rhoncus.",
+        "Proin eu mi.",
+        "Integer ac neque.",
+        "Integer tincidunt ante vel ipsum."
+      ],
+      "good_to_know": [
+        "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+        "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      ],
+      "care_instructions": [
+        "Maecenas rhoncus aliquam lacus.",
+        "In blandit ultrices enim."
+      ]
+    },
+    "materials_env": {
+      "weight": ["vel"],
+      "shade": ["adipiscing", "tincidunt"],
+      "tube": ["morbi", "adipiscing", "quam"]
+    },
+    "assembly_docs": {
+      "instructions": "AliquetMaecenas.doc",
+      "manual": "MattisEgestas.ppt"
+    },
+    "package_details": {
+      "article_number": 297226,
+      "packages": 5,
+      "width": 16,
+      "height": 93,
+      "length": 92,
+      "weight": 46
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 101,
+        "width": 8,
+        "diameter": 74,
+        "cord_length": 7,
+        "power": 34,
+        "assembly": false,
+        "designer": "Llewellyn Guerriero"
+      },
+      "bullets": [
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "Morbi vel lectus in quam fringilla rhoncus.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "Proin at turpis a pede posuere nonummy."
+      ],
+      "good_to_know": [
+        "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
+      ],
+      "care_instructions": ["Duis bibendum.", "Aenean lectus."]
+    },
+    "materials_env": {
+      "weight": ["nulla"],
+      "shade": ["habitasse", "fermentum"],
+      "tube": ["elementum", "nulla", "id"]
+    },
+    "assembly_docs": {
+      "instructions": "LacusMorbiQuis.xls",
+      "manual": "UltricesEnim.xls"
+    },
+    "package_details": {
+      "article_number": 193737,
+      "packages": 2,
+      "width": 16,
+      "height": 65,
+      "length": 49,
+      "weight": 94
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 6,
+        "width": 30,
+        "diameter": 102,
+        "cord_length": 29,
+        "power": 40,
+        "assembly": false,
+        "designer": "Arlana Anetts"
+      },
+      "bullets": [
+        "Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+        "Pellentesque eget nunc.",
+        "Nullam varius.",
+        "In sagittis dui vel nisl."
+      ],
+      "good_to_know": [
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      ],
+      "care_instructions": [
+        "Nunc purus.",
+        "Ut at dolor quis odio consequat varius."
+      ]
+    },
+    "materials_env": {
+      "weight": ["euismod"],
+      "shade": ["justo", "elementum"],
+      "tube": ["primis", "cubilia", "morbi"]
+    },
+    "assembly_docs": {
+      "instructions": "CongueVivamusMetus.ppt",
+      "manual": "UltricesEratTortor.pdf"
+    },
+    "package_details": {
+      "article_number": 141749,
+      "packages": 6,
+      "width": 7,
+      "height": 16,
+      "length": 24,
+      "weight": 79
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 60,
+        "width": 27,
+        "diameter": 81,
+        "cord_length": 71,
+        "power": 6,
+        "assembly": false,
+        "designer": "Germayne Greenleaf"
+      },
+      "bullets": [
+        "Nulla ac enim.",
+        "Nulla justo.",
+        "In hac habitasse platea dictumst.",
+        "Morbi a ipsum."
+      ],
+      "good_to_know": [
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+        "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      ],
+      "care_instructions": [
+        "Integer non velit.",
+        "Maecenas pulvinar lobortis est."
+      ]
+    },
+    "materials_env": {
+      "weight": ["sed"],
+      "shade": ["risus", "condimentum"],
+      "tube": ["ultrices", "turpis", "posuere"]
+    },
+    "assembly_docs": { "instructions": "Donec.pdf", "manual": "Vivamus.ppt" },
+    "package_details": {
+      "article_number": 229969,
+      "packages": 1,
+      "width": 9,
+      "height": 117,
+      "length": 110,
+      "weight": 30
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 66,
+        "width": 27,
+        "diameter": 61,
+        "cord_length": 30,
+        "power": 9,
+        "assembly": true,
+        "designer": "Jenn Kalker"
+      },
+      "bullets": [
+        "Curabitur convallis.",
+        "In hac habitasse platea dictumst.",
+        "Praesent blandit lacinia erat.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      ],
+      "good_to_know": [
+        "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+        "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      ],
+      "care_instructions": ["Nam dui.", "Sed accumsan felis."]
+    },
+    "materials_env": {
+      "weight": ["lacus"],
+      "shade": ["platea", "vel"],
+      "tube": ["magna", "morbi", "rhoncus"]
+    },
+    "assembly_docs": { "instructions": "At.doc", "manual": "Porttitor.xls" },
+    "package_details": {
+      "article_number": 493547,
+      "packages": 6,
+      "width": 18,
+      "height": 22,
+      "length": 85,
+      "weight": 100
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 20,
+        "width": 30,
+        "diameter": 93,
+        "cord_length": 26,
+        "power": 22,
+        "assembly": true,
+        "designer": "Papageno Assad"
+      },
+      "bullets": [
+        "Integer ac neque.",
+        "Sed ante.",
+        "Morbi porttitor lorem id ligula.",
+        "Ut tellus."
+      ],
+      "good_to_know": [
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      ],
+      "care_instructions": [
+        "Praesent blandit lacinia erat.",
+        "Donec posuere metus vitae ipsum."
+      ]
+    },
+    "materials_env": {
+      "weight": ["ligula"],
+      "shade": ["ipsum", "id"],
+      "tube": ["viverra", "sapien", "sapien"]
+    },
+    "assembly_docs": {
+      "instructions": "NullaNislNunc.xls",
+      "manual": "Phasellus.xls"
+    },
+    "package_details": {
+      "article_number": 271972,
+      "packages": 2,
+      "width": 18,
+      "height": 10,
+      "length": 97,
+      "weight": 24
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 83,
+        "width": 21,
+        "diameter": 52,
+        "cord_length": 47,
+        "power": 60,
+        "assembly": false,
+        "designer": "Inness Wanderschek"
+      },
+      "bullets": [
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Phasellus sit amet erat.",
+        "Donec semper sapien a libero.",
+        "Duis bibendum."
+      ],
+      "good_to_know": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      ],
+      "care_instructions": [
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Duis ac nibh."
+      ]
+    },
+    "materials_env": {
+      "weight": ["suspendisse"],
+      "shade": ["sapien", "nec"],
+      "tube": ["dis", "odio", "non"]
+    },
+    "assembly_docs": {
+      "instructions": "CuraeDuis.xls",
+      "manual": "InAnteVestibulum.xls"
+    },
+    "package_details": {
+      "article_number": 371622,
+      "packages": 4,
+      "width": 8,
+      "height": 32,
+      "length": 25,
+      "weight": 38
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 70,
+        "width": 21,
+        "diameter": 51,
+        "cord_length": 23,
+        "power": 20,
+        "assembly": true,
+        "designer": "Elnore Rickertsen"
+      },
+      "bullets": [
+        "Suspendisse accumsan tortor quis turpis.",
+        "Duis mattis egestas metus.",
+        "In eleifend quam a odio.",
+        "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
+      ],
+      "good_to_know": [
+        "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti."
+      ],
+      "care_instructions": [
+        "Fusce posuere felis sed lacus.",
+        "Phasellus sit amet erat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["libero"],
+      "shade": ["consequat", "nibh"],
+      "tube": ["ullamcorper", "diam", "iaculis"]
+    },
+    "assembly_docs": { "instructions": "NonMi.xls", "manual": "Sodales.ppt" },
+    "package_details": {
+      "article_number": 179052,
+      "packages": 4,
+      "width": 18,
+      "height": 23,
+      "length": 60,
+      "weight": 79
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 95,
+        "width": 20,
+        "diameter": 74,
+        "cord_length": 26,
+        "power": 1,
+        "assembly": true,
+        "designer": "Billye Dymocke"
+      },
+      "bullets": [
+        "Cras non velit nec nisi vulputate nonummy.",
+        "Donec posuere metus vitae ipsum.",
+        "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+        "Morbi non lectus."
+      ],
+      "good_to_know": [
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      ],
+      "care_instructions": [
+        "Nunc rhoncus dui vel sem.",
+        "Vestibulum sed magna at nunc commodo placerat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["congue"],
+      "shade": ["aliquet", "justo"],
+      "tube": ["luctus", "consectetuer", "erat"]
+    },
+    "assembly_docs": {
+      "instructions": "LuctusTinciduntNulla.xls",
+      "manual": "CongueElementumIn.xls"
+    },
+    "package_details": {
+      "article_number": 108786,
+      "packages": 4,
+      "width": 22,
+      "height": 64,
+      "length": 7,
+      "weight": 82
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 104,
+        "width": 32,
+        "diameter": 80,
+        "cord_length": 31,
+        "power": 28,
+        "assembly": false,
+        "designer": "Linzy Jerosch"
+      },
+      "bullets": [
+        "Morbi ut odio.",
+        "Quisque id justo sit amet sapien dignissim vestibulum.",
+        "Suspendisse accumsan tortor quis turpis.",
+        "In hac habitasse platea dictumst."
+      ],
+      "good_to_know": [
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+      ],
+      "care_instructions": [
+        "Vivamus tortor.",
+        "Aliquam quis turpis eget elit sodales scelerisque."
+      ]
+    },
+    "materials_env": {
+      "weight": ["condimentum"],
+      "shade": ["a", "fermentum"],
+      "tube": ["in", "felis", "lorem"]
+    },
+    "assembly_docs": {
+      "instructions": "PraesentIdMassa.xls",
+      "manual": "OdioElementum.ppt"
+    },
+    "package_details": {
+      "article_number": 232003,
+      "packages": 1,
+      "width": 34,
+      "height": 13,
+      "length": 116,
+      "weight": 8
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 91,
+        "width": 33,
+        "diameter": 89,
+        "cord_length": 25,
+        "power": 53,
+        "assembly": true,
+        "designer": "Regan Robelet"
+      },
+      "bullets": [
+        "Cras non velit nec nisi vulputate nonummy.",
+        "Quisque porta volutpat erat.",
+        "Integer ac neque.",
+        "Nulla tellus."
+      ],
+      "good_to_know": [
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+      ],
+      "care_instructions": [
+        "Sed accumsan felis.",
+        "Quisque porta volutpat erat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["porttitor"],
+      "shade": ["curabitur", "sed"],
+      "tube": ["pede", "amet", "nulla"]
+    },
+    "assembly_docs": {
+      "instructions": "SapienQuisLibero.pdf",
+      "manual": "InAnte.xls"
+    },
+    "package_details": {
+      "article_number": 378445,
+      "packages": 3,
+      "width": 32,
+      "height": 28,
+      "length": 105,
+      "weight": 56
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 34,
+        "width": 16,
+        "diameter": 78,
+        "cord_length": 47,
+        "power": 24,
+        "assembly": true,
+        "designer": "Bettine Warcop"
+      },
+      "bullets": [
+        "Nunc rhoncus dui vel sem.",
+        "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "Integer tincidunt ante vel ipsum.",
+        "Curabitur convallis."
+      ],
+      "good_to_know": [
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+        "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum."
+      ],
+      "care_instructions": [
+        "Phasellus in felis.",
+        "Vivamus vel nulla eget eros elementum pellentesque."
+      ]
+    },
+    "materials_env": {
+      "weight": ["orci"],
+      "shade": ["cras", "parturient"],
+      "tube": ["turpis", "nulla", "lectus"]
+    },
+    "assembly_docs": {
+      "instructions": "ConvallisNuncProin.xls",
+      "manual": "Vestibulum.ppt"
+    },
+    "package_details": {
+      "article_number": 298639,
+      "packages": 3,
+      "width": 24,
+      "height": 13,
+      "length": 21,
+      "weight": 82
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 35,
+        "width": 35,
+        "diameter": 18,
+        "cord_length": 65,
+        "power": 57,
+        "assembly": false,
+        "designer": "Kevon Gavaran"
+      },
+      "bullets": [
+        "Donec ut dolor.",
+        "Proin interdum mauris non ligula pellentesque ultrices.",
+        "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+        "Donec dapibus."
+      ],
+      "good_to_know": [
+        "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      ],
+      "care_instructions": [
+        "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+        "Mauris lacinia sapien quis libero."
+      ]
+    },
+    "materials_env": {
+      "weight": ["duis"],
+      "shade": ["morbi", "amet"],
+      "tube": ["ipsum", "hac", "quis"]
+    },
+    "assembly_docs": {
+      "instructions": "MorbiVelLectus.pdf",
+      "manual": "ProinRisus.ppt"
+    },
+    "package_details": {
+      "article_number": 431813,
+      "packages": 4,
+      "width": 31,
+      "height": 19,
+      "length": 62,
+      "weight": 5
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 74,
+        "width": 21,
+        "diameter": 37,
+        "cord_length": 59,
+        "power": 9,
+        "assembly": false,
+        "designer": "Sashenka Skalls"
+      },
+      "bullets": [
+        "Sed ante.",
+        "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "Mauris ullamcorper purus sit amet nulla.",
+        "Suspendisse potenti."
+      ],
+      "good_to_know": [
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      ],
+      "care_instructions": [
+        "Nunc nisl.",
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      ]
+    },
+    "materials_env": {
+      "weight": ["amet"],
+      "shade": ["massa", "platea"],
+      "tube": ["sollicitudin", "sed", "nec"]
+    },
+    "assembly_docs": {
+      "instructions": "SagittisDuiVel.ppt",
+      "manual": "IntegerAcNeque.pdf"
+    },
+    "package_details": {
+      "article_number": 420275,
+      "packages": 4,
+      "width": 35,
+      "height": 49,
+      "length": 86,
+      "weight": 19
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 112,
+        "width": 28,
+        "diameter": 46,
+        "cord_length": 10,
+        "power": 2,
+        "assembly": true,
+        "designer": "Cortie Pendleberry"
+      },
+      "bullets": [
+        "Mauris lacinia sapien quis libero.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+        "Proin eu mi."
+      ],
+      "good_to_know": [
+        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      ],
+      "care_instructions": [
+        "Duis aliquam convallis nunc.",
+        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+      ]
+    },
+    "materials_env": {
+      "weight": ["est"],
+      "shade": ["donec", "vitae"],
+      "tube": ["hac", "faucibus", "rutrum"]
+    },
+    "assembly_docs": { "instructions": "In.xls", "manual": "Nulla.ppt" },
+    "package_details": {
+      "article_number": 385095,
+      "packages": 1,
+      "width": 9,
+      "height": 30,
+      "length": 65,
+      "weight": 76
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 30,
+        "width": 13,
+        "diameter": 30,
+        "cord_length": 24,
+        "power": 10,
+        "assembly": false,
+        "designer": "Lenette Bunyard"
+      },
+      "bullets": [
+        "Proin at turpis a pede posuere nonummy.",
+        "Praesent blandit lacinia erat.",
+        "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "Etiam vel augue."
+      ],
+      "good_to_know": [
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      ],
+      "care_instructions": [
+        "In quis justo.",
+        "In hac habitasse platea dictumst."
+      ]
+    },
+    "materials_env": {
+      "weight": ["convallis"],
+      "shade": ["hendrerit", "a"],
+      "tube": ["luctus", "ipsum", "amet"]
+    },
+    "assembly_docs": { "instructions": "Massa.ppt", "manual": "Amet.ppt" },
+    "package_details": {
+      "article_number": 484644,
+      "packages": 1,
+      "width": 29,
+      "height": 116,
+      "length": 59,
+      "weight": 52
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 84,
+        "width": 17,
+        "diameter": 38,
+        "cord_length": 41,
+        "power": 15,
+        "assembly": true,
+        "designer": "Nealy Goodrum"
+      },
+      "bullets": [
+        "Proin interdum mauris non ligula pellentesque ultrices.",
+        "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "Proin interdum mauris non ligula pellentesque ultrices.",
+        "Curabitur convallis."
+      ],
+      "good_to_know": [
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+        "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo."
+      ],
+      "care_instructions": [
+        "In hac habitasse platea dictumst.",
+        "Nulla tellus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["integer"],
+      "shade": ["eget", "hac"],
+      "tube": ["tempus", "lacinia", "ridiculus"]
+    },
+    "assembly_docs": {
+      "instructions": "CrasPellentesqueVolutpat.pdf",
+      "manual": "InTempus.xls"
+    },
+    "package_details": {
+      "article_number": 339942,
+      "packages": 2,
+      "width": 19,
+      "height": 99,
+      "length": 6,
+      "weight": 83
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 114,
+        "width": 14,
+        "diameter": 75,
+        "cord_length": 64,
+        "power": 24,
+        "assembly": false,
+        "designer": "Mirabel Senechell"
+      },
+      "bullets": [
+        "Proin interdum mauris non ligula pellentesque ultrices.",
+        "Curabitur at ipsum ac tellus semper interdum.",
+        "Morbi a ipsum.",
+        "Sed sagittis."
+      ],
+      "good_to_know": [
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+      ],
+      "care_instructions": [
+        "Nullam sit amet turpis elementum ligula vehicula consequat.",
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      ]
+    },
+    "materials_env": {
+      "weight": ["morbi"],
+      "shade": ["augue", "ligula"],
+      "tube": ["at", "praesent", "praesent"]
+    },
+    "assembly_docs": {
+      "instructions": "ProinAt.xls",
+      "manual": "PlateaDictumst.xls"
+    },
+    "package_details": {
+      "article_number": 215698,
+      "packages": 2,
+      "width": 14,
+      "height": 31,
+      "length": 33,
+      "weight": 44
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 94,
+        "width": 6,
+        "diameter": 24,
+        "cord_length": 27,
+        "power": 57,
+        "assembly": false,
+        "designer": "Hadleigh Willisch"
+      },
+      "bullets": [
+        "Cras in purus eu magna vulputate luctus.",
+        "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+        "Donec vitae nisi.",
+        "Aliquam erat volutpat."
+      ],
+      "good_to_know": [
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+        "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      ],
+      "care_instructions": [
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "In sagittis dui vel nisl."
+      ]
+    },
+    "materials_env": {
+      "weight": ["etiam"],
+      "shade": ["sagittis", "cum"],
+      "tube": ["pulvinar", "venenatis", "vulputate"]
+    },
+    "assembly_docs": {
+      "instructions": "VelAugue.ppt",
+      "manual": "EratTortorSollicitudin.xls"
+    },
+    "package_details": {
+      "article_number": 200276,
+      "packages": 4,
+      "width": 32,
+      "height": 67,
+      "length": 33,
+      "weight": 20
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 115,
+        "width": 23,
+        "diameter": 59,
+        "cord_length": 8,
+        "power": 46,
+        "assembly": false,
+        "designer": "Aldric Acott"
+      },
+      "bullets": [
+        "Mauris lacinia sapien quis libero.",
+        "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "Phasellus id sapien in sapien iaculis congue."
+      ],
+      "good_to_know": [
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
+      ],
+      "care_instructions": [
+        "Vestibulum ac est lacinia nisi venenatis tristique.",
+        "Fusce consequat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["non"],
+      "shade": ["fusce", "ante"],
+      "tube": ["ac", "est", "amet"]
+    },
+    "assembly_docs": {
+      "instructions": "EstLaciniaNisi.xls",
+      "manual": "GravidaSem.xls"
+    },
+    "package_details": {
+      "article_number": 394237,
+      "packages": 3,
+      "width": 14,
+      "height": 97,
+      "length": 35,
+      "weight": 53
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 120,
+        "width": 11,
+        "diameter": 120,
+        "cord_length": 11,
+        "power": 25,
+        "assembly": false,
+        "designer": "Ernaline Macer"
+      },
+      "bullets": [
+        "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+        "Vivamus vestibulum sagittis sapien.",
+        "Curabitur gravida nisi at nibh."
+      ],
+      "good_to_know": [
+        "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+        "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      ],
+      "care_instructions": [
+        "Ut at dolor quis odio consequat varius.",
+        "Nulla facilisi."
+      ]
+    },
+    "materials_env": {
+      "weight": ["aliquam"],
+      "shade": ["magnis", "duis"],
+      "tube": ["interdum", "potenti", "nam"]
+    },
+    "assembly_docs": {
+      "instructions": "IdConsequatIn.xls",
+      "manual": "PellentesqueQuisquePorta.xls"
+    },
+    "package_details": {
+      "article_number": 494158,
+      "packages": 3,
+      "width": 23,
+      "height": 29,
+      "length": 99,
+      "weight": 82
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 31,
+        "width": 23,
+        "diameter": 16,
+        "cord_length": 72,
+        "power": 1,
+        "assembly": true,
+        "designer": "Babbie Shillan"
+      },
+      "bullets": [
+        "Donec semper sapien a libero.",
+        "Suspendisse ornare consequat lectus.",
+        "Donec posuere metus vitae ipsum.",
+        "Integer non velit."
+      ],
+      "good_to_know": [
+        "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+      ],
+      "care_instructions": [
+        "Praesent lectus.",
+        "Aliquam sit amet diam in magna bibendum imperdiet."
+      ]
+    },
+    "materials_env": {
+      "weight": ["quis"],
+      "shade": ["eu", "sit"],
+      "tube": ["risus", "ultrices", "platea"]
+    },
+    "assembly_docs": {
+      "instructions": "Scelerisque.xls",
+      "manual": "AmetErosSuspendisse.xls"
+    },
+    "package_details": {
+      "article_number": 434127,
+      "packages": 7,
+      "width": 35,
+      "height": 65,
+      "length": 36,
+      "weight": 29
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 12,
+        "width": 33,
+        "diameter": 39,
+        "cord_length": 52,
+        "power": 56,
+        "assembly": false,
+        "designer": "Adrian Harme"
+      },
+      "bullets": [
+        "Pellentesque ultrices mattis odio.",
+        "Praesent blandit lacinia erat.",
+        "Duis consequat dui nec nisi volutpat eleifend.",
+        "Sed ante."
+      ],
+      "good_to_know": [
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+        "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+      ],
+      "care_instructions": ["Ut tellus.", "Proin eu mi."]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["tempor", "augue"],
+      "tube": ["dolor", "aenean", "sed"]
+    },
+    "assembly_docs": {
+      "instructions": "Nullam.xls",
+      "manual": "FacilisiCras.xls"
+    },
+    "package_details": {
+      "article_number": 155598,
+      "packages": 5,
+      "width": 11,
+      "height": 104,
+      "length": 87,
+      "weight": 35
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 98,
+        "width": 31,
+        "diameter": 68,
+        "cord_length": 13,
+        "power": 1,
+        "assembly": true,
+        "designer": "Trumaine Dewicke"
+      },
+      "bullets": [
+        "Duis mattis egestas metus.",
+        "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "Morbi a ipsum.",
+        "Donec quis orci eget orci vehicula condimentum."
+      ],
+      "good_to_know": [
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+      ],
+      "care_instructions": ["Nulla tellus.", "Curabitur gravida nisi at nibh."]
+    },
+    "materials_env": {
+      "weight": ["velit"],
+      "shade": ["gravida", "eu"],
+      "tube": ["sapien", "fusce", "sed"]
+    },
+    "assembly_docs": {
+      "instructions": "AmetNullaQuisque.xls",
+      "manual": "AmetSem.ppt"
+    },
+    "package_details": {
+      "article_number": 409216,
+      "packages": 3,
+      "width": 10,
+      "height": 39,
+      "length": 21,
+      "weight": 15
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 70,
+        "width": 23,
+        "diameter": 111,
+        "cord_length": 56,
+        "power": 49,
+        "assembly": true,
+        "designer": "Bennett Dornan"
+      },
+      "bullets": [
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "Quisque ut erat.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "Etiam justo."
+      ],
+      "good_to_know": [
+        "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+      ],
+      "care_instructions": [
+        "Sed vel enim sit amet nunc viverra dapibus.",
+        "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla."
+      ]
+    },
+    "materials_env": {
+      "weight": ["amet"],
+      "shade": ["at", "lacinia"],
+      "tube": ["cubilia", "vestibulum", "eget"]
+    },
+    "assembly_docs": {
+      "instructions": "NullaDapibusDolor.pdf",
+      "manual": "Praesent.ppt"
+    },
+    "package_details": {
+      "article_number": 398208,
+      "packages": 1,
+      "width": 23,
+      "height": 74,
+      "length": 44,
+      "weight": 84
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 65,
+        "width": 17,
+        "diameter": 91,
+        "cord_length": 6,
+        "power": 15,
+        "assembly": false,
+        "designer": "Wren Dewey"
+      },
+      "bullets": [
+        "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "Sed accumsan felis.",
+        "Duis at velit eu est congue elementum."
+      ],
+      "good_to_know": [
+        "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+      ],
+      "care_instructions": [
+        "Cras non velit nec nisi vulputate nonummy.",
+        "Duis bibendum."
+      ]
+    },
+    "materials_env": {
+      "weight": ["donec"],
+      "shade": ["ultrices", "quam"],
+      "tube": ["pede", "hac", "iaculis"]
+    },
+    "assembly_docs": {
+      "instructions": "In.xls",
+      "manual": "EratCurabiturGravida.ppt"
+    },
+    "package_details": {
+      "article_number": 360250,
+      "packages": 2,
+      "width": 7,
+      "height": 64,
+      "length": 55,
+      "weight": 52
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 37,
+        "width": 21,
+        "diameter": 23,
+        "cord_length": 15,
+        "power": 40,
+        "assembly": false,
+        "designer": "Kendall Boodell"
+      },
+      "bullets": [
+        "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+        "Quisque porta volutpat erat.",
+        "Cras non velit nec nisi vulputate nonummy.",
+        "Nulla ac enim."
+      ],
+      "good_to_know": [
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      ],
+      "care_instructions": [
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+        "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
+      ]
+    },
+    "materials_env": {
+      "weight": ["congue"],
+      "shade": ["tortor", "justo"],
+      "tube": ["integer", "interdum", "dictumst"]
+    },
+    "assembly_docs": {
+      "instructions": "MolestieHendrerit.doc",
+      "manual": "Mattis.ppt"
+    },
+    "package_details": {
+      "article_number": 393569,
+      "packages": 3,
+      "width": 7,
+      "height": 48,
+      "length": 116,
+      "weight": 6
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 100,
+        "width": 21,
+        "diameter": 80,
+        "cord_length": 58,
+        "power": 40,
+        "assembly": true,
+        "designer": "Thaine Tonkin"
+      },
+      "bullets": [
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+        "Curabitur gravida nisi at nibh.",
+        "Curabitur gravida nisi at nibh.",
+        "Etiam pretium iaculis justo."
+      ],
+      "good_to_know": [
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo."
+      ],
+      "care_instructions": [
+        "Vestibulum ac est lacinia nisi venenatis tristique.",
+        "Quisque ut erat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["enim"],
+      "shade": ["sit", "vestibulum"],
+      "tube": ["lobortis", "et", "lorem"]
+    },
+    "assembly_docs": {
+      "instructions": "Massa.xls",
+      "manual": "ErosViverra.xls"
+    },
+    "package_details": {
+      "article_number": 434039,
+      "packages": 5,
+      "width": 9,
+      "height": 36,
+      "length": 50,
+      "weight": 21
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 81,
+        "width": 30,
+        "diameter": 73,
+        "cord_length": 9,
+        "power": 24,
+        "assembly": true,
+        "designer": "Nobe Allon"
+      },
+      "bullets": [
+        "Vivamus in felis eu sapien cursus vestibulum.",
+        "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "Sed ante.",
+        "Ut at dolor quis odio consequat varius."
+      ],
+      "good_to_know": [
+        "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      ],
+      "care_instructions": [
+        "Morbi quis tortor id nulla ultrices aliquet.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      ]
+    },
+    "materials_env": {
+      "weight": ["blandit"],
+      "shade": ["in", "a"],
+      "tube": ["blandit", "tristique", "ultrices"]
+    },
+    "assembly_docs": {
+      "instructions": "UltricesPosuere.ppt",
+      "manual": "MontesNasceturRidiculus.ppt"
+    },
+    "package_details": {
+      "article_number": 134235,
+      "packages": 7,
+      "width": 30,
+      "height": 25,
+      "length": 34,
+      "weight": 72
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 8,
+        "width": 34,
+        "diameter": 30,
+        "cord_length": 69,
+        "power": 30,
+        "assembly": true,
+        "designer": "Rodolphe Bridle"
+      },
+      "bullets": [
+        "Nunc purus.",
+        "In eleifend quam a odio.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "Fusce consequat."
+      ],
+      "good_to_know": [
+        "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum."
+      ],
+      "care_instructions": ["Mauris sit amet eros.", "Aenean lectus."]
+    },
+    "materials_env": {
+      "weight": ["posuere"],
+      "shade": ["sit", "elementum"],
+      "tube": ["cubilia", "fusce", "pellentesque"]
+    },
+    "assembly_docs": {
+      "instructions": "EnimLeoRhoncus.xls",
+      "manual": "Placerat.xls"
+    },
+    "package_details": {
+      "article_number": 11205,
+      "packages": 5,
+      "width": 32,
+      "height": 111,
+      "length": 47,
+      "weight": 100
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 70,
+        "width": 28,
+        "diameter": 37,
+        "cord_length": 47,
+        "power": 41,
+        "assembly": false,
+        "designer": "Tobie Greenhouse"
+      },
+      "bullets": [
+        "Nulla tellus.",
+        "Donec ut dolor.",
+        "Aliquam non mauris.",
+        "Nam nulla."
+      ],
+      "good_to_know": [
+        "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      ],
+      "care_instructions": [
+        "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "In eleifend quam a odio."
+      ]
+    },
+    "materials_env": {
+      "weight": ["accumsan"],
+      "shade": ["elit", "nisi"],
+      "tube": ["pede", "justo", "id"]
+    },
+    "assembly_docs": {
+      "instructions": "EtCommodo.xls",
+      "manual": "TempusVivamus.xls"
+    },
+    "package_details": {
+      "article_number": 442973,
+      "packages": 5,
+      "width": 20,
+      "height": 6,
+      "length": 28,
+      "weight": 100
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 58,
+        "width": 14,
+        "diameter": 107,
+        "cord_length": 67,
+        "power": 10,
+        "assembly": true,
+        "designer": "Willamina Mace"
+      },
+      "bullets": [
+        "Aenean lectus.",
+        "Donec quis orci eget orci vehicula condimentum.",
+        "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "Phasellus id sapien in sapien iaculis congue."
+      ],
+      "good_to_know": [
+        "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      ],
+      "care_instructions": [
+        "Curabitur at ipsum ac tellus semper interdum.",
+        "Suspendisse ornare consequat lectus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["est", "phasellus"],
+      "tube": ["ante", "sem", "condimentum"]
+    },
+    "assembly_docs": { "instructions": "Maecenas.ppt", "manual": "Et.pdf" },
+    "package_details": {
+      "article_number": 224718,
+      "packages": 5,
+      "width": 21,
+      "height": 65,
+      "length": 55,
+      "weight": 56
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 108,
+        "width": 30,
+        "diameter": 54,
+        "cord_length": 49,
+        "power": 26,
+        "assembly": false,
+        "designer": "Mariele Stanger"
+      },
+      "bullets": [
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+        "Vestibulum ac est lacinia nisi venenatis tristique.",
+        "Aliquam erat volutpat.",
+        "Nullam molestie nibh in lectus."
+      ],
+      "good_to_know": [
+        "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      ],
+      "care_instructions": [
+        "Praesent blandit lacinia erat.",
+        "Praesent blandit lacinia erat."
+      ]
+    },
+    "materials_env": {
+      "weight": ["neque"],
+      "shade": ["sagittis", "quam"],
+      "tube": ["ante", "ante", "massa"]
+    },
+    "assembly_docs": {
+      "instructions": "FaucibusAccumsan.doc",
+      "manual": "MassaVolutpat.ppt"
+    },
+    "package_details": {
+      "article_number": 267192,
+      "packages": 2,
+      "width": 7,
+      "height": 106,
+      "length": 79,
+      "weight": 53
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 87,
+        "width": 29,
+        "diameter": 92,
+        "cord_length": 25,
+        "power": 4,
+        "assembly": true,
+        "designer": "Peirce Ring"
+      },
+      "bullets": [
+        "Suspendisse potenti.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+        "Nulla justo.",
+        "Praesent blandit."
+      ],
+      "good_to_know": [
+        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      ],
+      "care_instructions": [
+        "Mauris sit amet eros.",
+        "Maecenas pulvinar lobortis est."
+      ]
+    },
+    "materials_env": {
+      "weight": ["enim"],
+      "shade": ["quam", "fusce"],
+      "tube": ["vel", "donec", "ante"]
+    },
+    "assembly_docs": {
+      "instructions": "CubiliaCurae.xls",
+      "manual": "Ipsum.xls"
+    },
+    "package_details": {
+      "article_number": 208166,
+      "packages": 2,
+      "width": 27,
+      "height": 97,
+      "length": 84,
+      "weight": 76
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 88,
+        "width": 7,
+        "diameter": 75,
+        "cord_length": 8,
+        "power": 60,
+        "assembly": false,
+        "designer": "Celinda Aspinwall"
+      },
+      "bullets": [
+        "Suspendisse ornare consequat lectus.",
+        "Morbi a ipsum.",
+        "In hac habitasse platea dictumst.",
+        "Proin leo odio, porttitor id, consequat in, consequat ut, nulla."
+      ],
+      "good_to_know": [
+        "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+        "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+      ],
+      "care_instructions": [
+        "Aliquam non mauris.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio."
+      ]
+    },
+    "materials_env": {
+      "weight": ["curabitur"],
+      "shade": ["vel", "in"],
+      "tube": ["lacus", "ac", "lobortis"]
+    },
+    "assembly_docs": { "instructions": "EuMi.xls", "manual": "Feugiat.ppt" },
+    "package_details": {
+      "article_number": 28592,
+      "packages": 7,
+      "width": 24,
+      "height": 113,
+      "length": 19,
+      "weight": 98
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 73,
+        "width": 9,
+        "diameter": 18,
+        "cord_length": 34,
+        "power": 15,
+        "assembly": true,
+        "designer": "Lisha Simoncini"
+      },
+      "bullets": [
+        "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "Donec ut dolor.",
+        "Integer non velit.",
+        "Vivamus vestibulum sagittis sapien."
+      ],
+      "good_to_know": [
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      ],
+      "care_instructions": [
+        "Mauris ullamcorper purus sit amet nulla.",
+        "In congue."
+      ]
+    },
+    "materials_env": {
+      "weight": ["penatibus"],
+      "shade": ["pede", "id"],
+      "tube": ["bibendum", "integer", "nulla"]
+    },
+    "assembly_docs": { "instructions": "Feugiat.ppt", "manual": "Vel.pdf" },
+    "package_details": {
+      "article_number": 198447,
+      "packages": 1,
+      "width": 14,
+      "height": 58,
+      "length": 113,
+      "weight": 18
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 35,
+        "width": 24,
+        "diameter": 116,
+        "cord_length": 6,
+        "power": 58,
+        "assembly": false,
+        "designer": "Morganne Kirrage"
+      },
+      "bullets": [
+        "Aenean fermentum.",
+        "Aliquam sit amet diam in magna bibendum imperdiet.",
+        "Aenean fermentum.",
+        "Duis ac nibh."
+      ],
+      "good_to_know": [
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
+      ],
+      "care_instructions": ["Sed sagittis.", "Duis ac nibh."]
+    },
+    "materials_env": {
+      "weight": ["ut"],
+      "shade": ["eget", "ligula"],
+      "tube": ["et", "tortor", "duis"]
+    },
+    "assembly_docs": {
+      "instructions": "VelIpsumPraesent.pdf",
+      "manual": "DonecOdio.ppt"
+    },
+    "package_details": {
+      "article_number": 388464,
+      "packages": 4,
+      "width": 15,
+      "height": 29,
+      "length": 45,
+      "weight": 94
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 117,
+        "width": 27,
+        "diameter": 44,
+        "cord_length": 46,
+        "power": 19,
+        "assembly": true,
+        "designer": "Anatole Zanetti"
+      },
+      "bullets": [
+        "Nam dui.",
+        "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "Nulla ac enim."
+      ],
+      "good_to_know": [
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      ],
+      "care_instructions": [
+        "Nulla facilisi.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+      ]
+    },
+    "materials_env": {
+      "weight": ["diam"],
+      "shade": ["curabitur", "vestibulum"],
+      "tube": ["cubilia", "eros", "neque"]
+    },
+    "assembly_docs": { "instructions": "Tellus.ppt", "manual": "DonecUt.ppt" },
+    "package_details": {
+      "article_number": 35961,
+      "packages": 3,
+      "width": 22,
+      "height": 31,
+      "length": 107,
+      "weight": 57
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 31,
+        "width": 32,
+        "diameter": 37,
+        "cord_length": 63,
+        "power": 16,
+        "assembly": false,
+        "designer": "Pearline Yarnton"
+      },
+      "bullets": [
+        "Praesent blandit.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+        "In blandit ultrices enim.",
+        "Morbi ut odio."
+      ],
+      "good_to_know": [
+        "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+        "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+      ],
+      "care_instructions": [
+        "In quis justo.",
+        "In hac habitasse platea dictumst."
+      ]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["parturient", "risus"],
+      "tube": ["vestibulum", "mus", "lacinia"]
+    },
+    "assembly_docs": {
+      "instructions": "IntegerAcLeo.ppt",
+      "manual": "VestibulumEget.ppt"
+    },
+    "package_details": {
+      "article_number": 143171,
+      "packages": 7,
+      "width": 17,
+      "height": 19,
+      "length": 50,
+      "weight": 95
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 91,
+        "width": 7,
+        "diameter": 36,
+        "cord_length": 51,
+        "power": 25,
+        "assembly": false,
+        "designer": "Ashton Averall"
+      },
+      "bullets": [
+        "Duis mattis egestas metus.",
+        "Phasellus sit amet erat.",
+        "In quis justo.",
+        "Donec ut dolor."
+      ],
+      "good_to_know": [
+        "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+        "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "care_instructions": [
+        "Duis at velit eu est congue elementum.",
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      ]
+    },
+    "materials_env": {
+      "weight": ["arcu"],
+      "shade": ["cursus", "urna"],
+      "tube": ["nibh", "a", "lobortis"]
+    },
+    "assembly_docs": {
+      "instructions": "DiamErat.doc",
+      "manual": "OrciEgetOrci.xls"
+    },
+    "package_details": {
+      "article_number": 398017,
+      "packages": 5,
+      "width": 31,
+      "height": 84,
+      "length": 68,
+      "weight": 5
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 9,
+        "width": 24,
+        "diameter": 110,
+        "cord_length": 68,
+        "power": 9,
+        "assembly": true,
+        "designer": "Sunny Farenden"
+      },
+      "bullets": [
+        "Nulla tempus.",
+        "Donec quis orci eget orci vehicula condimentum.",
+        "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+        "In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      ],
+      "good_to_know": [
+        "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+        "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      ],
+      "care_instructions": [
+        "In hac habitasse platea dictumst.",
+        "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo."
+      ]
+    },
+    "materials_env": {
+      "weight": ["in"],
+      "shade": ["amet", "vivamus"],
+      "tube": ["aliquam", "libero", "scelerisque"]
+    },
+    "assembly_docs": {
+      "instructions": "SapienUrna.ppt",
+      "manual": "EgetTempusVel.xls"
+    },
+    "package_details": {
+      "article_number": 325915,
+      "packages": 1,
+      "width": 6,
+      "height": 117,
+      "length": 39,
+      "weight": 21
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 86,
+        "width": 25,
+        "diameter": 90,
+        "cord_length": 11,
+        "power": 10,
+        "assembly": true,
+        "designer": "Melisandra Brunnstein"
+      },
+      "bullets": [
+        "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Nunc rhoncus dui vel sem.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      ],
+      "good_to_know": [
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      ],
+      "care_instructions": [
+        "Vivamus vestibulum sagittis sapien.",
+        "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      ]
+    },
+    "materials_env": {
+      "weight": ["lacinia"],
+      "shade": ["at", "pharetra"],
+      "tube": ["integer", "in", "quisque"]
+    },
+    "assembly_docs": { "instructions": "Amet.ppt", "manual": "Vel.ppt" },
+    "package_details": {
+      "article_number": 157711,
+      "packages": 1,
+      "width": 11,
+      "height": 16,
+      "length": 71,
+      "weight": 96
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 117,
+        "width": 32,
+        "diameter": 21,
+        "cord_length": 47,
+        "power": 14,
+        "assembly": true,
+        "designer": "Estele Caldaro"
+      },
+      "bullets": [
+        "Quisque ut erat.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "Duis at velit eu est congue elementum."
+      ],
+      "good_to_know": [
+        "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
+      ],
+      "care_instructions": [
+        "Curabitur gravida nisi at nibh.",
+        "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      ]
+    },
+    "materials_env": {
+      "weight": ["diam"],
+      "shade": ["gravida", "volutpat"],
+      "tube": ["in", "etiam", "aliquam"]
+    },
+    "assembly_docs": {
+      "instructions": "At.ppt",
+      "manual": "NullaPedeUllamcorper.xls"
+    },
+    "package_details": {
+      "article_number": 482594,
+      "packages": 4,
+      "width": 30,
+      "height": 41,
+      "length": 47,
+      "weight": 85
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 102,
+        "width": 10,
+        "diameter": 98,
+        "cord_length": 41,
+        "power": 20,
+        "assembly": false,
+        "designer": "Herve Pollastrone"
+      },
+      "bullets": [
+        "Aenean lectus.",
+        "Mauris lacinia sapien quis libero.",
+        "Vestibulum rutrum rutrum neque.",
+        "Aenean sit amet justo."
+      ],
+      "good_to_know": [
+        "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+        "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      ],
+      "care_instructions": ["Sed accumsan felis.", "Donec vitae nisi."]
+    },
+    "materials_env": {
+      "weight": ["lobortis"],
+      "shade": ["in", "integer"],
+      "tube": ["ut", "nulla", "lacus"]
+    },
+    "assembly_docs": {
+      "instructions": "Ligula.ppt",
+      "manual": "VolutpatIn.xls"
+    },
+    "package_details": {
+      "article_number": 395168,
+      "packages": 6,
+      "width": 12,
+      "height": 67,
+      "length": 99,
+      "weight": 73
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 8,
+        "width": 17,
+        "diameter": 89,
+        "cord_length": 62,
+        "power": 6,
+        "assembly": true,
+        "designer": "Duncan Lorryman"
+      },
+      "bullets": [
+        "Maecenas tincidunt lacus at velit.",
+        "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+        "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+        "Curabitur convallis."
+      ],
+      "good_to_know": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      ],
+      "care_instructions": [
+        "Donec dapibus.",
+        "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      ]
+    },
+    "materials_env": {
+      "weight": ["suspendisse"],
+      "shade": ["aenean", "at"],
+      "tube": ["nunc", "donec", "odio"]
+    },
+    "assembly_docs": { "instructions": "Sem.xls", "manual": "Nascetur.xls" },
+    "package_details": {
+      "article_number": 337920,
+      "packages": 1,
+      "width": 18,
+      "height": 115,
+      "length": 47,
+      "weight": 37
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 106,
+        "width": 26,
+        "diameter": 112,
+        "cord_length": 6,
+        "power": 19,
+        "assembly": false,
+        "designer": "Leland Storks"
+      },
+      "bullets": [
+        "Nam nulla.",
+        "Nam tristique tortor eu pede.",
+        "Nulla tellus.",
+        "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      ],
+      "good_to_know": [
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "care_instructions": [
+        "Maecenas rhoncus aliquam lacus.",
+        "Donec ut mauris eget massa tempor convallis."
+      ]
+    },
+    "materials_env": {
+      "weight": ["elit"],
+      "shade": ["cras", "dolor"],
+      "tube": ["molestie", "nisi", "magna"]
+    },
+    "assembly_docs": {
+      "instructions": "MagnaAt.ppt",
+      "manual": "EratTortor.xls"
+    },
+    "package_details": {
+      "article_number": 46309,
+      "packages": 1,
+      "width": 6,
+      "height": 66,
+      "length": 118,
+      "weight": 38
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 21,
+        "width": 13,
+        "diameter": 51,
+        "cord_length": 66,
+        "power": 49,
+        "assembly": true,
+        "designer": "Florance Balleine"
+      },
+      "bullets": [
+        "In quis justo.",
+        "Etiam justo.",
+        "Vivamus in felis eu sapien cursus vestibulum.",
+        "Etiam faucibus cursus urna."
+      ],
+      "good_to_know": [
+        "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+        "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+      ],
+      "care_instructions": ["Etiam faucibus cursus urna.", "Integer non velit."]
+    },
+    "materials_env": {
+      "weight": ["elementum"],
+      "shade": ["in", "diam"],
+      "tube": ["ac", "dui", "etiam"]
+    },
+    "assembly_docs": {
+      "instructions": "ElementumPellentesqueQuisque.ppt",
+      "manual": "TellusSemper.ppt"
+    },
+    "package_details": {
+      "article_number": 148241,
+      "packages": 7,
+      "width": 17,
+      "height": 44,
+      "length": 17,
+      "weight": 77
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 85,
+        "width": 30,
+        "diameter": 53,
+        "cord_length": 49,
+        "power": 13,
+        "assembly": false,
+        "designer": "Ranna Kobpac"
+      },
+      "bullets": [
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "Vivamus vel nulla eget eros elementum pellentesque.",
+        "Nullam sit amet turpis elementum ligula vehicula consequat.",
+        "Etiam justo."
+      ],
+      "good_to_know": [
+        "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      ],
+      "care_instructions": [
+        "Nulla ac enim.",
+        "Suspendisse ornare consequat lectus."
+      ]
+    },
+    "materials_env": {
+      "weight": ["est"],
+      "shade": ["tincidunt", "diam"],
+      "tube": ["dis", "vestibulum", "aenean"]
+    },
+    "assembly_docs": { "instructions": "ElementumIn.xls", "manual": "At.pdf" },
+    "package_details": {
+      "article_number": 213574,
+      "packages": 2,
+      "width": 15,
+      "height": 16,
+      "length": 65,
+      "weight": 94
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 92,
+        "width": 12,
+        "diameter": 38,
+        "cord_length": 32,
+        "power": 45,
+        "assembly": false,
+        "designer": "Demetra Twitty"
+      },
+      "bullets": [
+        "Morbi ut odio.",
+        "Mauris ullamcorper purus sit amet nulla.",
+        "Etiam vel augue.",
+        "Nullam sit amet turpis elementum ligula vehicula consequat."
+      ],
+      "good_to_know": [
+        "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+      ],
+      "care_instructions": [
+        "Maecenas ut massa quis augue luctus tincidunt.",
+        "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      ]
+    },
+    "materials_env": {
+      "weight": ["nascetur"],
+      "shade": ["posuere", "turpis"],
+      "tube": ["in", "semper", "proin"]
+    },
+    "assembly_docs": {
+      "instructions": "PotentiIn.ppt",
+      "manual": "UtVolutpatSapien.doc"
+    },
+    "package_details": {
+      "article_number": 89939,
+      "packages": 3,
+      "width": 12,
+      "height": 31,
+      "length": 62,
+      "weight": 83
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 113,
+        "width": 11,
+        "diameter": 61,
+        "cord_length": 6,
+        "power": 21,
+        "assembly": false,
+        "designer": "Maggi Chorley"
+      },
+      "bullets": [
+        "Donec semper sapien a libero.",
+        "Pellentesque at nulla.",
+        "Nam nulla.",
+        "Quisque ut erat."
+      ],
+      "good_to_know": [
+        "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+        "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      ],
+      "care_instructions": [
+        "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",
+        "Vivamus tortor."
+      ]
+    },
+    "materials_env": {
+      "weight": ["id"],
+      "shade": ["sed", "magnis"],
+      "tube": ["laoreet", "nulla", "ut"]
+    },
+    "assembly_docs": {
+      "instructions": "Vulputate.xls",
+      "manual": "NuncRhoncus.doc"
+    },
+    "package_details": {
+      "article_number": 135695,
+      "packages": 3,
+      "width": 19,
+      "height": 67,
+      "length": 24,
+      "weight": 98
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 107,
+        "width": 7,
+        "diameter": 12,
+        "cord_length": 13,
+        "power": 12,
+        "assembly": false,
+        "designer": "Ethelind Darben"
+      },
+      "bullets": [
+        "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+        "Maecenas rhoncus aliquam lacus.",
+        "In quis justo.",
+        "Morbi ut odio."
+      ],
+      "good_to_know": [
+        "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo."
+      ],
+      "care_instructions": [
+        "Nulla ac enim.",
+        "Vestibulum ac est lacinia nisi venenatis tristique."
+      ]
+    },
+    "materials_env": {
+      "weight": ["ac"],
+      "shade": ["quis", "nam"],
+      "tube": ["sem", "in", "ridiculus"]
+    },
+    "assembly_docs": {
+      "instructions": "LuctusEt.xls",
+      "manual": "EgetRutrumAt.xls"
+    },
+    "package_details": {
+      "article_number": 124959,
+      "packages": 6,
+      "width": 36,
+      "height": 23,
+      "length": 96,
+      "weight": 83
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 16,
+        "width": 11,
+        "diameter": 28,
+        "cord_length": 62,
+        "power": 33,
+        "assembly": false,
+        "designer": "Cherrita Jedrzejczak"
+      },
+      "bullets": [
+        "Aenean auctor gravida sem.",
+        "Proin risus.",
+        "Quisque ut erat.",
+        "Mauris sit amet eros."
+      ],
+      "good_to_know": [
+        "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      ],
+      "care_instructions": ["Etiam justo.", "Suspendisse potenti."]
+    },
+    "materials_env": {
+      "weight": ["mauris"],
+      "shade": ["tellus", "vel"],
+      "tube": ["sapien", "malesuada", "nulla"]
+    },
+    "assembly_docs": {
+      "instructions": "FaucibusAccumsanOdio.xls",
+      "manual": "NonPretiumQuis.xls"
+    },
+    "package_details": {
+      "article_number": 260828,
+      "packages": 4,
+      "width": 36,
+      "height": 57,
+      "length": 85,
+      "weight": 100
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 56,
+        "width": 20,
+        "diameter": 25,
+        "cord_length": 15,
+        "power": 4,
+        "assembly": true,
+        "designer": "Sarine Butland"
+      },
+      "bullets": [
+        "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "Etiam vel augue.",
+        "Praesent blandit."
+      ],
+      "good_to_know": [
+        "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+        "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      ],
+      "care_instructions": [
+        "Nunc purus.",
+        "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est."
+      ]
+    },
+    "materials_env": {
+      "weight": ["mattis"],
+      "shade": ["urna", "neque"],
+      "tube": ["vulputate", "semper", "tortor"]
+    },
+    "assembly_docs": {
+      "instructions": "PrimisInFaucibus.xls",
+      "manual": "AuctorSed.doc"
+    },
+    "package_details": {
+      "article_number": 317020,
+      "packages": 5,
+      "width": 22,
+      "height": 118,
+      "length": 41,
+      "weight": 79
+    }
+  },
+  {
+    "product_info": {
+      "product_dimensions": {
+        "max": 85,
+        "width": 33,
+        "diameter": 104,
+        "cord_length": 60,
+        "power": 58,
+        "assembly": true,
+        "designer": "Ash Fayers"
+      },
+      "bullets": [
+        "Suspendisse accumsan tortor quis turpis.",
+        "In congue.",
+        "Aliquam non mauris.",
+        "Integer ac neque."
+      ],
+      "good_to_know": [
+        "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+        "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+      ],
+      "care_instructions": [
+        "Nulla nisl.",
+        "Aliquam quis turpis eget elit sodales scelerisque."
+      ]
+    },
+    "materials_env": {
+      "weight": ["integer"],
+      "shade": ["varius", "ac"],
+      "tube": ["dui", "non", "dapibus"]
+    },
+    "assembly_docs": { "instructions": "VelAugue.ppt", "manual": "Ut.xls" },
+    "package_details": {
+      "article_number": 251363,
+      "packages": 1,
+      "width": 23,
+      "height": 116,
+      "length": 93,
+      "weight": 74
+    }
+  }
+]

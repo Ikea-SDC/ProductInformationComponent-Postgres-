@@ -9,3 +9,4 @@ db.once('open', () => {
     console.log('Successfully connected to productinfo component database!');
 })
 
+module.exports = db;
