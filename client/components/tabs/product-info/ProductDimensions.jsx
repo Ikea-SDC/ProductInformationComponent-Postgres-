@@ -27,10 +27,10 @@ const ProductDimensions = (props) => {
         <br />
         Shade width: {props.dimensions.width}
         <br />
-        Diameter: {props.dimensions.cordLength}
+        Diameter: {props.dimensions.cord_length}
         <br />
         Cord length:
-            {props.dimensions.cordLength}
+            {props.dimensions.cord_length}
         <br />
         Power: {props.dimensions.power}
         <br />
@@ -42,10 +42,10 @@ const ProductDimensions = (props) => {
             <br />
             Shade width: {props.dimensions.width}
             <br />
-            Diameter: {props.dimensions.cordLength}
+            Diameter: {props.dimensions.cord_length}
             <br />
             Cord length:
-            {props.dimensions.cordLength}
+            {props.dimensions.cord_length}
             <br />
             Power: {props.dimensions.power}
             <br />

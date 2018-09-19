@@ -6,6 +6,7 @@ import MaterialsAndEnvironmentFrame from './tabs/materials-environment/MatAndEnv
 import AssemblyAndDocumentsFrame from './tabs/assembly-documents/AssemblyAndDocumentsFrame.jsx';
 import PackageDetailsBodyFrame from './tabs/package-details/PackageDetailsBodyFrame.jsx';
 import RatingsBodyFrame from './tabs/ratings/RatingsBodyFrame.jsx'
+import axios from 'axios';
 
 const Container = styled.div`
   -webkit-font-smoothing: antialiased !important;
@@ -47,10 +48,25 @@ class Frame extends React.Component {
                 diameter: 23,
                 cordLength: '10 ft',
                 power: '10 w'},
+            loading: true,
             activeTab: 0,
+            product: null
         }
         this.handleClick = this.handleClick.bind(this);
         this.renderBody = this.renderBody.bind(this);
+        this.generateRandomProductId = this.generateRandomProductId.bind(this);
+    }
+
+    generateRandomProductId() {
+        return Math.floor(Math.random() * (100 - 1) + 1);
+    }
+
+    componentDidMount() {
+        axios.get(`/product/${this.generateRandomProductId()}`)
+        .then((response) => {
+            console.log(response.data[0])
+            this.setState({product: response.data[0], loading: false});
+        });
     }
 
     handleClick(id) {
@@ -59,7 +75,7 @@ class Frame extends React.Component {
 
     renderBody() {
         if(this.state.activeTab === 0) {
-            return (<ProductInfoBodyFrame bullets={this.state.keyFeatures} goodToKnow={this.state.goodToKnow} careInstructions={this.state.careInstructions} dimensions={this.state.dimensions} />);
+            return (<ProductInfoBodyFrame bullets={this.state.product.product_info.bullets} goodToKnow={this.state.product.product_info.good_to_know} careInstructions={this.state.product.product_info.care_instructions} dimensions={this.state.product.product_info.product_dimensions} />);
         } else if (this.state.activeTab === 1) {
             return (<MaterialsAndEnvironmentFrame />);
         } else if (this.state.activeTab === 2) {
@@ -72,16 +88,23 @@ class Frame extends React.Component {
     }
 
     render() {
-        return (
-             <Container>
-                 <TabContainer>
-                    {this.state.tabTitles.map((title, i) => <TabFrame title={title} id={i} activeTab={this.state.activeTab} handleClick={this.handleClick} />)}
-                 </TabContainer>
-                <Details>
-                    {this.renderBody()}
-                </Details>
-            </Container>
-        )
+        if(this.state.loading) {
+            return (<div>Loading...</div>)
+        } else {
+            return <Container>
+                <TabContainer>
+                  {this.state.tabTitles.map((title, i) => (
+                    <TabFrame
+                      title={title}
+                      id={i}
+                      activeTab={this.state.activeTab}
+                      handleClick={this.handleClick}
+                    />
+                  ))}
+                </TabContainer>
+                <Details>{this.renderBody()}</Details>
+              </Container>;
+        }
     }
 }
 
