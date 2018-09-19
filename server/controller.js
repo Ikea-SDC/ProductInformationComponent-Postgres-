@@ -1,5 +1,6 @@
 const db = require('../database/index');
-const Model = require('../database/models');
+const Product = require('../database/models');
+const MockData = require('../database/mock/MOCK_DATA');
 
 // exports.addProduct = function(req, res) {
     
@@ -17,10 +18,24 @@ const Model = require('../database/models');
 
 // }
 
-exports.getReviews = function(req, res) {
+// exports.getReviews = function(req, res) {
 
-}
+// }
 
-exports.getProduct = function(req, res) {
+// exports.getProduct = function(req, res) {
 
+// }
+
+exports.populate = function(callback) {
+    MockData.forEach((product) => {
+        let newProd = new Product(product);
+        newProd.save((err, res) => {
+            if(err) {
+                console.log(err);
+            } else {
+                console.log('Added product successfully!')
+            }
+        });
+    })
+    callback();
 }
