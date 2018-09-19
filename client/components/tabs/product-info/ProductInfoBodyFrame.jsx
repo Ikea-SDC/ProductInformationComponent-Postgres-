@@ -15,6 +15,7 @@ const ProductInfoLeft = styled.div`
   display: inline-block;
   vertical-align: top;
   margin-bottom: 10px;
+  max-height: 450px;
 `;
 
 const ProductInfoRight = styled.div`
