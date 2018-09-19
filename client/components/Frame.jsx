@@ -62,7 +62,7 @@ class Frame extends React.Component {
     }
 
     componentDidMount() {
-        axios.get(`/product/${this.generateRandomProductId()}`)
+        axios.get(`http://localhost:1337/product/${this.generateRandomProductId()}`)
         .then((response) => {
             console.log(response.data[0])
             this.setState({product: response.data[0], loading: false});
