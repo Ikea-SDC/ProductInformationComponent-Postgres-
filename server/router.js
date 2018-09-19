@@ -4,7 +4,13 @@ const controller = require('./controller');
 
 router.get('/product/:id', (req, res) => {
     console.log('GET @ product/:id');
-    res.status(200).send('GET product information!')
+    controller.getProduct(req.params.id, (err, doc) => {
+        if(err) {
+            console.log(err);
+        } else {
+            res.status(200).send(doc)
+        }
+    });
 });
 
 router.post('product/:id', (req, res) => {

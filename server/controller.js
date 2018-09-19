@@ -22,9 +22,17 @@ const MockData = require('../database/mock/MOCK_DATA');
 
 // }
 
-// exports.getProduct = function(req, res) {
-
-// }
+exports.getProduct = function(id, callback) {
+    console.log('id in get', id)
+    Product.find({productId: id}, (err, doc) => {
+        if(err) {
+            console.log(err);
+            callback(err, null);
+        } else {
+            callback(null, doc);
+        }
+    });
+}
 
 exports.populate = function(callback) {
     MockData.forEach((product) => {
