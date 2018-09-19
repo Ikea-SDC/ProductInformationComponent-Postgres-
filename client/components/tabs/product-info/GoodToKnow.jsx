@@ -9,8 +9,8 @@ const GoodToKnowItem = styled.div`
 
 const GoodToKnow = (props) => {
 
-    return (props.goodToKnow.map(fact => {
-            return <div>
+    return (props.goodToKnow.map((fact, i) => {
+            return <div key={i}>
                 <GoodToKnowItem>{fact}</GoodToKnowItem>
                 <br />
             </div>;

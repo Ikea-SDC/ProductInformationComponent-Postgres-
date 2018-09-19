@@ -52,7 +52,7 @@ class MaterialsAndEnvironment extends React.Component {
             <Container>
                 <PeoplePlanetContainer>
                     <Headline>Product description</Headline>
-                    <ProductDescription />
+                    <ProductDescription materials={this.props.materials}/>
                 </PeoplePlanetContainer>
                 <ProductDescriptionContainer>
                     <Headline>People & Planet</Headline>
