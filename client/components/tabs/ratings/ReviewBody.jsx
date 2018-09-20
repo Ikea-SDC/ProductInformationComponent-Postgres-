@@ -10,7 +10,7 @@ const Container = styled.div`
   font-style: normal !important;
   text-transform: none !important;
   line-height: 19.5px !important;
-  margin-top: 1px !important;
+  margin-top: 50px !important;
   margin-right: 10px !important;
   margin-left: 10px !important;
   border-bottom-width: 1px !important;
@@ -347,7 +347,7 @@ const RatingBrick = styled.li`
 `;
 
 const RatingBricksFill = styled.span`
-  width: 80% !important;
+  width: ${props => props.rating}% !important;
   height: 8px !important;
   display: block !important;
   border-radius: 2px !important;
@@ -468,35 +468,48 @@ const HelpfulButton = styled.button`
 
 
 
-const ReviewBody = () => {
+class ReviewBody extends React.Component {
+  constructor(props) {
+    super(props);
+
+  }
+
+  renderStars (rating) {
+    if(rating === 1) {
+      return <StarsFill>★</StarsFill>
+    } else if (rating === 2) {
+      return <StarsFill>★★</StarsFill>
+    } else if (rating === 3) {
+      return <StarsFill>★★★</StarsFill>
+    } else if (rating === 4) {
+      return <StarsFill>★★★★</StarsFill>
+    } else if (rating === 5) {
+      return <StarsFill>★★★★★</StarsFill>;
+    }
+  }
+
+  render(){
     return <Container>
         <HeaderContainer>
           <AuthorContainer>
             <StarsContainer>
               <StarsBlock>
                 <StarsBackground>☆☆☆☆☆</StarsBackground>
-                <StarsFill>★★★★</StarsFill>
+                {this.renderStars(this.props.review.rating)}
               </StarsBlock>
             </StarsContainer>
             <AuthorBlock>
-              <Author>Amanda7261</Author>
+              <Author>{this.props.review.username}</Author>
             </AuthorBlock>
-            <DateBlock>· 3 months ago</DateBlock>
+            <DateBlock>· {this.props.review.created_at}</DateBlock>
           </AuthorContainer>
         </HeaderContainer>
         <TitleContainer>
-          <Title>Great lamp that combines style and function</Title>
+          <Title>{this.props.review.review_title}</Title>
         </TitleContainer>
         <BodyContainer>
           <BodyBlock>
-            <Body>
-              I bought this because I had way too many cords going on around
-              my desk. I love this because I can wirelessly charge my phone,
-              tablet, and have the light on all at once while only using one
-              outlet. Keep in mind that the bulbs for this lamp are smaller
-              than conventional bulbs, so I would recommend picking up some
-              replacements at the store.
-            </Body>
+            <Body>{this.props.review.review_body}</Body>
             <RecommendedBlock>
               <Recommended>
                 <RecommendedIcon>✔</RecommendedIcon>
@@ -518,7 +531,7 @@ const ReviewBody = () => {
                     <RatingBrick />
                     <RatingBrick />
                     <RatingBrick />
-                    <RatingBricksFill />
+                    <RatingBricksFill rating={this.props.review.specifics.value * 20} />
                   </RatingBricks>
                 </RatingBarBlock>
               </RatingBarContainer>
@@ -531,7 +544,7 @@ const ReviewBody = () => {
                     <RatingBrick />
                     <RatingBrick />
                     <RatingBrick />
-                    <RatingBricksFill />
+                    <RatingBricksFill rating={this.props.review.specifics.quality * 20} />
                   </RatingBricks>
                 </RatingBarBlock>
               </RatingBarContainer>
@@ -544,7 +557,7 @@ const ReviewBody = () => {
                     <RatingBrick />
                     <RatingBrick />
                     <RatingBrick />
-                    <RatingBricksFill />
+                  <RatingBricksFill rating={this.props.review.specifics.appearance * 20}/>
                   </RatingBricks>
                 </RatingBarBlock>
               </RatingBarContainer>
@@ -557,7 +570,7 @@ const ReviewBody = () => {
                     <RatingBrick />
                     <RatingBrick />
                     <RatingBrick />
-                    <RatingBricksFill />
+                  <RatingBricksFill rating={this.props.review.specifics.ease * 20}/>
                   </RatingBricks>
                 </RatingBarBlock>
               </RatingBarContainer>
@@ -570,7 +583,7 @@ const ReviewBody = () => {
                     <RatingBrick />
                     <RatingBrick />
                     <RatingBrick />
-                    <RatingBricksFill />
+                  <RatingBricksFill rating={this.props.review.specifics.expected * 20}/>
                   </RatingBricks>
                 </RatingBarBlock>
               </RatingBarContainer>
@@ -584,14 +597,16 @@ const ReviewBody = () => {
                 <h4>Helpful?</h4>
               </HelpfulTextBlock>
               <HelpfulButtonsContainer>
-                <HelpfulButton>Yes · 5</HelpfulButton>
-                <HelpfulButton>No · 3</HelpfulButton>
+                <HelpfulButton>Yes · {this.props.review.helpful.yes}</HelpfulButton>
+              <HelpfulButton>No · {this.props.review.helpful.no}</HelpfulButton>
                 <HelpfulButton>Report</HelpfulButton>
               </HelpfulButtonsContainer>
             </Helpful>
           </HelpfulBlock>
         </HelpfulContainer>
       </Container>;
+  }
 }
+    
 
 export default ReviewBody;

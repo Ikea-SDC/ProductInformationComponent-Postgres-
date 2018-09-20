@@ -106,18 +106,20 @@ class RatingsBodyFrame extends React.Component {
                             <SnapshotTableCell>
                                 <SnapshotCellContainer>
                                     <RatingSnapshotHeadline>Rating Snapshot</RatingSnapshotHeadline>
-                                    <RatingSnapshot />
+                                    <RatingSnapshot reviews={this.props.reviews}/>
                                 </SnapshotCellContainer>
                             </SnapshotTableCell>
                             <AvgTableCell>
                                     <RatingSnapshotHeadline>Average Customer Ratings</RatingSnapshotHeadline>
-                                    <ReviewsAvg />
+                                    <ReviewsAvg reviews={this.props.reviews}/>
                             </AvgTableCell>
                         </TableRow>
                     </TableBody>
                 </Table>
                 <SortControlFrame />
-                <ReviewBody />
+                {this.props.reviews.map((review, i) => {
+                    return <ReviewBody key={i} review={review}/>
+                })}
             </Container>
         </div>);
     }

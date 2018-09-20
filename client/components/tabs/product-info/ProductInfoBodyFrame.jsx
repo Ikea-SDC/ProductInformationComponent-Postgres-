@@ -33,6 +33,7 @@ const ProductInfoRight = styled.div`
 const DetailsContainer = styled.div`
   margin-bottom: 10px !important;
   display: block;
+  max-height: 450px;
 `;
 
 const Headline = styled.div`

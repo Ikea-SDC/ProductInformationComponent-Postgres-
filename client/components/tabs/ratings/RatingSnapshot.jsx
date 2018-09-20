@@ -26,15 +26,15 @@ const Caption = styled.caption`
 
 
 
-const RatingSnapshot = () => {
+const RatingSnapshot = (props) => {
     return <RatingTable role="presentation">
         <Caption>Select a row below to filter reviews.</Caption>
         <TableBody>
-          <RatingBar stars={5}/>
-          <RatingBar stars={4}/>
-          <RatingBar stars={3}/>
-          <RatingBar stars={2}/>
-          <RatingBar stars={1}/>
+          <RatingBar rating={5} total={props.reviews.length} count={props.reviews.filter((review) => {if(review.rating === 5){return review}}).length}/>
+        <RatingBar rating={4} total={props.reviews.length} count={props.reviews.filter((review) => { if (review.rating === 4) { return review } }).length}/>
+        <RatingBar rating={3} total={props.reviews.length} count={props.reviews.filter((review) => { if (review.rating === 3) { return review } }).length}/>
+        <RatingBar rating={2} total={props.reviews.length} count={props.reviews.filter((review) => { if (review.rating === 2) { return review } }).length}/>
+        <RatingBar rating={1} total={props.reviews.length} count={props.reviews.filter((review) => { if (review.rating === 1) { return review } }).length}/>
         </TableBody>
       </RatingTable>;
 }
