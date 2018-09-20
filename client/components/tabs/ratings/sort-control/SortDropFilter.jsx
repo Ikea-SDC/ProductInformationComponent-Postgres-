@@ -10,6 +10,7 @@ const SortByContainer = styled.div`
 const DropDown = styled.div`
   display: block !important;
   padding: 10px 25px 10px 10px !important;
+  height: 22px;
 `;
 
 const DropDownSpan = styled.span`
@@ -22,6 +23,7 @@ const DropDownSpan = styled.span`
 const DropDownButtonText = styled.button`
   max-width: 100% !important;
   cursor: pointer !important;
+  font-size: 13px;
   background-color: transparent !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -40,51 +42,96 @@ const CurrentFilterText = styled.span`
   overflow: hidden !important;
   white-space: nowrap !important;
   vertical-align: middle !important;
+  &:hover ${DropDownMenuItem} {
+    display: block;
+  }
 `;
 
 const DropDownArrow = styled.span`
   font-size: 12px !important;
   line-height: 12px !important;
-  font-family: "BVCustom", "times new roman" !important;
+  font-family: "times new roman" !important;
   position: absolute !important;
   top: 50% !important;
   right: 10px !important;
   margin-top: -4px !important;
 `;
 
-const DropDownMenu = styled.select`
-  position: absolute !important;
-  top: -9999px !important;
-  left: -9999px !important;
-  vertical-align: baseline !important;
-  line-height: normal !important;
-  border: 1px solid #ccc !important;
-  cursor: pointer !important;
-  display: block !important;
+const DropDownMenu = styled.ul`
+  right: 5px;
+  top: auto;
+  width: 224px;
+  background-color: #fff;
+  display: block;
+  position: absolute;
+  padding: 0;
+  z-index: 3;
+  line-height: normal;
+  box-sizing: border-box;
+  list-style-type: circle;
+  list-style: none;
+  white-space: nowrap;
+  color: #333;
+  text-align: center !important;
+  box-sizing: border-box;
+  ${DropDown}: hover & {
+    display: block;
+    outline-style: auto;
+    outline-width: 2px;
+  }
 `;
 
-const DropDownOption = styled.option`
-  display: block !important;
+const DropDownMenuItem = styled.li`
+  display: none;
+  cursor: pointer;
+  zoom: 1;
+  color: #333;
+  font-size: 13px;
+  width: 224px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center !important;
+  &:hover {
+    display: block;
+    color: #fff;
+    background-color: #3399fd;
+  }
+  ${DropDown}: hover & {
+    display: block;
+  }
+  ${DropDownMenu}: hover & {
+    display: block;
+  }
 `;
 
-const SortDropFilter = () => {
-    return <SortByContainer>
-        <DropDown>
-          <DropDownSpan> Sort by: </DropDownSpan>
-          <DropDownButtonText>
-            <CurrentFilterText>CURRENTFILTER</CurrentFilterText>
-            <DropDownArrow> ▼ </DropDownArrow>
-          </DropDownButtonText>
-        </DropDown>
-        <DropDownMenu>
-          <DropDownOption value="relevancy">Most Relevant</DropDownOption>
-          <DropDownOption value="mostHelpful">Most Helpful</DropDownOption>
-          <DropDownOption value="positive">Highest to Lowest Rating</DropDownOption>
-          <DropDownOption value="negative">Lowest to Highest Rating</DropDownOption>
-          <DropDownOption value="oldest">Oldest</DropDownOption>
-          <DropDownOption value="mostRecent">Most Recent</DropDownOption>
-        </DropDownMenu>
-      </SortByContainer>;
+
+class SortDropFilter extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+    }
+  }
+
+  
+  render() {
+    return (<SortByContainer>
+      <DropDown>
+        <DropDownSpan> Sort by: </DropDownSpan>
+        <DropDownButtonText>
+          <CurrentFilterText>{this.props.activeFilter}</CurrentFilterText>
+          <DropDownArrow> ▼ </DropDownArrow>
+          <DropDownMenu>
+            <DropDownMenuItem onClick={() => { this.props.filter('relevant') }} id="item" >Most Relevant</DropDownMenuItem>
+            <DropDownMenuItem onClick={() => { this.props.filter('helpful') }} id="item" >Most Helpful</DropDownMenuItem>
+            <DropDownMenuItem onClick={() => { this.props.filter('highest') }} id="item" >Highest to Lowest Rating</DropDownMenuItem>
+            <DropDownMenuItem onClick={() => { this.props.filter('lowest') }} id="item" >Lowest to Highest Rating</DropDownMenuItem>
+            <DropDownMenuItem onClick={() => { this.props.filter('oldest') }} id="item" >Oldest</DropDownMenuItem>
+            <DropDownMenuItem onClick={() => { this.props.filter('recent') }} id="item" >Most Recent</DropDownMenuItem>
+          </DropDownMenu>
+        </DropDownButtonText>
+      </DropDown>
+    </SortByContainer>);
+  }
 }
 
 export default SortDropFilter;

@@ -8,6 +8,7 @@ import ProductDimensions from './ProductDimensions';
 const ProductInfoLeft = styled.div`
   column-count: 2;
   width: 75%;
+  max-height: 375px;
   column-gap: 20px;
   padding: 20px 15px;
   padding-right: 20px;

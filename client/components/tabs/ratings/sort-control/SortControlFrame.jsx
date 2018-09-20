@@ -58,9 +58,9 @@ class SortControlFrame extends React.Component {
     render() {
         return (<SortControlContainer>
             <ReviewCount>
-                <ReviewCountSpan>1-5 of 5 Reviews</ReviewCountSpan>
+                <ReviewCountSpan>1-{this.props.number} of {this.props.number} Reviews</ReviewCountSpan>
             </ReviewCount>
-            <SortDropFilter />
+            <SortDropFilter filter={this.props.filter} activeFilter={this.props.activeFilter}/>
             <SortBurgerButton />
         </SortControlContainer>);
     }
