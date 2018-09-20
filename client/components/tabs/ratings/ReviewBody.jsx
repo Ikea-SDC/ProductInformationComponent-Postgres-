@@ -10,7 +10,7 @@ const Container = styled.div`
   font-style: normal !important;
   text-transform: none !important;
   line-height: 19.5px !important;
-  margin-top: 50px !important;
+  padding-bottom: 50px !important;
   margin-right: 10px !important;
   margin-left: 10px !important;
   border-bottom-width: 1px !important;

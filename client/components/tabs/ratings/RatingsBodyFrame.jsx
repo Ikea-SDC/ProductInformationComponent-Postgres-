@@ -91,7 +91,142 @@ class RatingsBodyFrame extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
+            activeFilter: 'Most Recent'
+        }
+        this.filterReviews = this.filterReviews.bind(this);
+        this.handleFilterClick = this.handleFilterClick.bind(this);
+    }
 
+    handleFilterClick(filter) {
+        if(filter === 'relevant') {
+            this.setState({activeFilter: 'Most Relevant'});
+        } else if (filter === 'helpful') {
+            this.setState({ activeFilter: 'Most Helpful' });
+        } else if (filter === 'highest') {
+            this.setState({ activeFilter: 'Highest to Lowest Rating' });
+        } else if (filter === 'lowest') {
+            this.setState({ activeFilter: 'Lowest to Highest Rating' });
+        } else if (filter === 'oldest') {
+            this.setState({ activeFilter: 'Oldest' });
+        } else if (filter === 'recent') {
+            this.setState({ activeFilter: 'Most Recent' });
+        }
+    }
+
+    filterReviews() {
+        console.log(this.state.activeFilter);
+        if (this.state.activeFilter === "Most Recent") {
+          return this.props.reviews
+            .sort((a, b) => {
+              if (Date.parse(a.created_at) > Date.parse(b.created_at)) {
+                return -1;
+              } else if (Date.parse(a.created_at) < Date.parse(b.created_at)) {
+                return 1;
+              } else {
+                return 0;
+              }
+            })
+            .map((review, i) => {
+              return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === "Oldest") {
+          return this.props.reviews
+            .sort((a, b) => {
+              if (Date.parse(a.created_at) < Date.parse(b.created_at)) {
+                return -1;
+              } else if (Date.parse(a.created_at) > Date.parse(b.created_at)) {
+                return 1;
+              } else {
+                return 0;
+              }
+            })
+            .map((review, i) => {
+              return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === "Most Helpful") {
+          return this.props.reviews
+            .sort((a, b) => {
+              if (a.helpful.yes > b.helpful.yes) {
+                return -1;
+              } else if (a.helpful.yes < b.helpful.yes) {
+                return 1;
+              } else {
+                return 0;
+              }
+            })
+            .map((review, i) => {
+              return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === "Most Relevant") {
+          return this.props.reviews
+            .sort((a, b) => {
+              if (a.username.length > b.username.length) {
+                return -1;
+              } else if (a.username.length < b.username.length) {
+                return 1;
+              } else {
+                return 0;
+              }
+            })
+            .map((review, i) => {
+              return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === "Highest to Lowest Rating") {
+          return this.props.reviews
+            .sort((a, b) => {
+              if (a.rating > b.rating) {
+                return -1;
+              } else if (a.rating < b.rating) {
+                return 1;
+              } else {
+                return 0;
+              }
+            })
+            .map((review, i) => {
+              return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === "Lowest to Highest Rating") {
+          return this.props.reviews
+            .sort((a, b) => {
+              if (a.rating < b.rating) {
+                return -1;
+              } else if (a.rating > b.rating) {
+                return 1;
+              } else {
+                return 0;
+              }
+            })
+            .map((review, i) => {
+              return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === 'Oldest') {
+            return this.props.reviews
+            .sort((a, b) => {
+                if (Date.parse(a.rating) < Date.parse(b.rating)) {
+                    return -1;
+                } else if (Date.parse(a.rating) > Date.parse(b.rating)) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+            })
+            .map((review, i) => {
+                return <ReviewBody key={i} review={review} />;
+            });
+        } else if (this.state.activeFilter === 'Oldest') {
+            return this.props.reviews
+            .sort((a, b) => {
+                if (Date.parse(a.rating) > Date.parse(b.rating)) {
+                    return -1;
+                } else if (Date.parse(a.rating) < Date.parse(b.rating)) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+            })
+            .map((review, i) => {
+                return <ReviewBody key={i} review={review} />;
+            });
         }
     }
 
@@ -116,10 +251,8 @@ class RatingsBodyFrame extends React.Component {
                         </TableRow>
                     </TableBody>
                 </Table>
-                <SortControlFrame />
-                {this.props.reviews.map((review, i) => {
-                    return <ReviewBody key={i} review={review}/>
-                })}
+                <SortControlFrame number={this.props.reviews.length} filter={this.handleFilterClick} activeFilter={this.state.activeFilter}/>
+                {this.filterReviews()}
             </Container>
         </div>);
     }
