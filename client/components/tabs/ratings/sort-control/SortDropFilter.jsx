@@ -72,7 +72,7 @@ const SortDropFilter = () => {
         <DropDown>
           <DropDownSpan> Sort by: </DropDownSpan>
           <DropDownButtonText>
-            <CurrentFilterText>CURRENTFILT</CurrentFilterText>
+            <CurrentFilterText>CURRENTFILTER</CurrentFilterText>
             <DropDownArrow> ▼ </DropDownArrow>
           </DropDownButtonText>
         </DropDown>
