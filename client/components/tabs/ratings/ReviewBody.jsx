@@ -488,6 +488,28 @@ class ReviewBody extends React.Component {
     }
   }
 
+  renderRecommend(rec) {
+    if(rec === true) {
+      return <RecommendedBlock>
+          <Recommended>
+          <RecommendedIcon>✔</RecommendedIcon>
+            <RecommendedYes>Yes,</RecommendedYes>
+          </Recommended>
+          <RecommendedText>I recommend this product.</RecommendedText>
+        </RecommendedBlock>;
+    } else if (rec === false) {
+      return <RecommendedBlock>
+          <Recommended>
+            <RecommendedIcon>ⓧ</RecommendedIcon>
+            <RecommendedYes>No,</RecommendedYes>
+          </Recommended>
+          <RecommendedText>
+            I do not recommend this product.
+          </RecommendedText>
+        </RecommendedBlock>;
+    }
+  }
+
   render(){
     return <Container>
         <HeaderContainer>
@@ -510,13 +532,7 @@ class ReviewBody extends React.Component {
         <BodyContainer>
           <BodyBlock>
             <Body>{this.props.review.review_body}</Body>
-            <RecommendedBlock>
-              <Recommended>
-                <RecommendedIcon>✔</RecommendedIcon>
-                <RecommendedYes>Yes,</RecommendedYes>
-              </Recommended>
-              <RecommendedText>I recommend this product.</RecommendedText>
-            </RecommendedBlock>
+            {this.renderRecommend(this.props.review.recommended)}
           </BodyBlock>
         </BodyContainer>
         <RatingContainer>
