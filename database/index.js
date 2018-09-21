@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/ProductInfo')
+mongoose.connect('mongodb://mongo:27017/ProductInfo')
 const db = mongoose.connection;
 
 db.on('error', () => {
