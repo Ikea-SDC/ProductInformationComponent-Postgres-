@@ -1,7 +1,8 @@
+require('./index.js')
 const mongoose = require('mongoose');
 
 
-const productsSchema = mongoose.Schema({
+const productsSchema = new mongoose.Schema({
   productId: Number,
   product_info: {
     product_dimensions: {
@@ -28,7 +29,7 @@ const productsSchema = mongoose.Schema({
   },
   package_details: {
     article_number: Number,
-    packaged: Number,
+    packages: Number,
     width: Number,
     height: Number,
     length: Number,
@@ -36,7 +37,7 @@ const productsSchema = mongoose.Schema({
   }
 }); 
 
-const reviewsSchema = mongoose.Schema({
+const reviewsSchema = new mongoose.Schema({
   productId: Number,
   rating: Number,
   review_body: String,

@@ -63,11 +63,11 @@ class Frame extends React.Component {
     }
 
     componentDidMount() {
-        axios.get(`http://52.15.238.52:1337/product/${this.generateRandomProductId()}`)
+        axios.get(`http://localhost:1337/product/${this.generateRandomProductId()}`)
         .then((response) => {
             console.log('Product', response.data[0])
             this.setState({product: response.data[0], loading: false});
-            axios.get(`http://52.15.238.52:1337/reviews/${this.state.product.productId}`)
+            axios.get(`http://localhost:1337/reviews/${this.state.product.productId}`)
             .then((response) => {
                 console.log('Reviews', response.data)
                 this.setState({reviews: response.data})
