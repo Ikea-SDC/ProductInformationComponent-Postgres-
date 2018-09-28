@@ -1,12 +1,16 @@
-const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/ProductInfo')
-const db = mongoose.connection;
-
-db.on('error', () => {
-    console.log("Failed to connect to productinfo component database!");
+var Sequelize = require('sequelize');
+var { password } = require('./password.js');
+var sequelize = new Sequelize('ProductInfo', 'postgres', 'postgres', {
+    host: 'localhost',
+    port: '5432',
+    dialect: 'postgres',
 });
-db.once('open', () => {
-    console.log('Successfully connected to productinfo component database!');
-})
 
-module.exports = db;
+sequelize
+  .authenticate()
+  .then(() => {
+    console.log("Connected to DB!");
+  })
+  .catch(err => {
+    console.error(err);
+  });
