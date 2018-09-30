@@ -1,4 +1,4 @@
 node_modules
 bundle.js
-/database/MongoProdData.tsv
-/database/MongoRevData.tsv
+prodSqlData.tsv
+revSqlData.tsv
